@@ -320,6 +320,18 @@ tr.highlight {
   min-width: 0;
 }
 
+.privacy-note {
+  margin-bottom: 14px;
+  border: 1px solid rgba(24, 152, 212, 0.24);
+  border-radius: 8px;
+  background: rgba(95, 199, 245, 0.12);
+  color: var(--navy);
+  padding: 12px 14px;
+  font-size: 0.9rem;
+  font-weight: 750;
+  line-height: 1.35;
+}
+
 .control-card {
   padding: 16px;
   min-width: 0;
