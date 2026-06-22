@@ -183,15 +183,16 @@ h1 {
   margin-top: 16px;
   border: 1px solid rgba(255, 255, 255, 0.22);
   border-radius: 8px;
-  min-height: 152px;
+  min-height: 182px;
   padding: 14px;
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 142px;
+  grid-template-columns: minmax(0, 1fr) 176px;
   align-items: end;
   gap: 10px;
   overflow: hidden;
   background:
-    linear-gradient(135deg, rgba(5, 29, 49, 0.72), rgba(24, 152, 212, 0.24)),
+    radial-gradient(circle at 82% 4%, rgba(160, 205, 232, 0.22), transparent 36%),
+    linear-gradient(135deg, rgba(5, 29, 49, 0.78), rgba(24, 152, 212, 0.22)),
     rgba(255, 255, 255, 0.1);
 }
 
@@ -218,120 +219,266 @@ h1 {
 
 .bielsa-figure {
   position: relative;
-  height: 128px;
-  transform: translateY(7px);
+  height: 158px;
+  transform: translateY(8px);
+}
+
+.bielsa-backdrop {
+  position: absolute;
+  inset: 2px -10px 8px 8px;
+  border-radius: 8px;
+  background:
+    linear-gradient(180deg, transparent 0 68%, rgba(118, 73, 42, 0.52) 69% 100%),
+    repeating-linear-gradient(168deg, rgba(255, 255, 255, 0.08) 0 1px, transparent 1px 11px);
+  opacity: 0.7;
 }
 
 .bielsa-head {
   position: absolute;
-  right: 38px;
-  top: 3px;
-  width: 56px;
-  height: 66px;
-  border-radius: 46% 45% 42% 38%;
-  background: #d1a47e;
-  transform: rotate(17deg);
-  box-shadow: inset -7px -7px 0 rgba(102, 67, 48, 0.16);
-  z-index: 3;
+  right: 56px;
+  top: 5px;
+  width: 64px;
+  height: 72px;
+  border-radius: 45% 45% 48% 48%;
+  background:
+    radial-gradient(circle at 48% 11%, #efd4bb 0 16%, transparent 17%),
+    linear-gradient(180deg, #d8a27a, #c08665);
+  transform: rotate(8deg);
+  box-shadow:
+    inset -8px -8px 0 rgba(90, 54, 40, 0.15),
+    0 8px 16px rgba(0, 0, 0, 0.16);
+  z-index: 5;
+}
+
+.bielsa-bald {
+  position: absolute;
+  left: 17px;
+  top: -5px;
+  width: 32px;
+  height: 28px;
+  border-radius: 50%;
+  background: #e7bd9b;
+  box-shadow:
+    4px 7px 0 rgba(95, 66, 54, 0.1),
+    -8px 12px 0 rgba(95, 66, 54, 0.07);
 }
 
 .bielsa-hair {
   position: absolute;
-  inset: -11px -2px auto 2px;
-  height: 26px;
-  border-radius: 36px 34px 16px 8px;
-  background: #2c2d32;
-  transform: rotate(-2deg);
+  left: 2px;
+  top: -5px;
+  width: 60px;
+  height: 32px;
+  border-radius: 44px 44px 20px 18px;
+  background:
+    radial-gradient(circle at 20% 32%, #25272d 0 2px, transparent 3px),
+    radial-gradient(circle at 76% 26%, #25272d 0 2px, transparent 3px),
+    linear-gradient(90deg, #24272e 0 24%, transparent 25% 66%, #24272e 67%);
+  transform: rotate(-3deg);
 }
 
 .bielsa-ear {
   position: absolute;
-  right: -7px;
-  top: 28px;
-  width: 13px;
-  height: 18px;
+  right: -8px;
+  top: 30px;
+  width: 14px;
+  height: 19px;
   border-radius: 50%;
   background: #c89570;
 }
 
+.bielsa-brow {
+  position: absolute;
+  left: 16px;
+  top: 39px;
+  width: 40px;
+  height: 4px;
+  border-radius: 999px;
+  background: rgba(45, 37, 34, 0.62);
+  transform: rotate(5deg);
+}
+
 .bielsa-glasses {
   position: absolute;
-  right: 8px;
-  top: 37px;
-  width: 34px;
-  height: 12px;
-  border-top: 3px solid #222b34;
-  border-left: 3px solid #222b34;
+  left: 14px;
+  top: 43px;
+  width: 48px;
+  height: 14px;
+  border-top: 3px solid #1a2630;
+  border-left: 3px solid #1a2630;
+  border-right: 3px solid #1a2630;
   border-radius: 3px;
-  transform: rotate(8deg);
+  transform: rotate(5deg);
+}
+
+.bielsa-glasses::before {
+  content: "";
+  position: absolute;
+  left: 18px;
+  top: -3px;
+  width: 3px;
+  height: 13px;
+  background: #1a2630;
 }
 
 .bielsa-nose {
   position: absolute;
-  right: 2px;
-  top: 46px;
+  right: 19px;
+  top: 51px;
   width: 15px;
-  height: 8px;
+  height: 10px;
   border-radius: 0 10px 10px 0;
-  background: #bd8b65;
+  background: #b77d5c;
+}
+
+.bielsa-mouth {
+  position: absolute;
+  right: 22px;
+  top: 64px;
+  width: 18px;
+  height: 3px;
+  border-radius: 999px;
+  background: rgba(64, 39, 34, 0.45);
 }
 
 .bielsa-neck {
   position: absolute;
-  right: 59px;
-  top: 64px;
-  width: 25px;
-  height: 22px;
+  right: 78px;
+  top: 70px;
+  width: 26px;
+  height: 24px;
   background: #b88161;
-  transform: rotate(13deg);
-  z-index: 2;
+  transform: rotate(8deg);
+  z-index: 3;
 }
 
 .bielsa-body {
   position: absolute;
-  right: 20px;
-  bottom: 4px;
-  width: 92px;
-  height: 65px;
-  border-radius: 28px 28px 8px 8px;
-  background: #0f2638;
-  transform: skewX(-10deg);
-  box-shadow: inset 0 14px 0 rgba(255, 255, 255, 0.08);
-  z-index: 1;
-}
-
-.bielsa-body::before {
-  content: "";
-  position: absolute;
-  left: 26px;
-  top: 0;
-  width: 16px;
-  height: 46px;
-  background: #e8edf2;
-  clip-path: polygon(50% 0, 100% 100%, 0 100%);
+  right: 32px;
+  bottom: 19px;
+  width: 126px;
+  height: 70px;
+  border-radius: 34px 34px 8px 8px;
+  background: #071f36;
+  box-shadow:
+    inset 0 16px 0 rgba(255, 255, 255, 0.06),
+    0 14px 18px rgba(0, 0, 0, 0.18);
+  z-index: 2;
 }
 
 .bielsa-arm {
   position: absolute;
-  left: -20px;
-  bottom: 7px;
-  width: 64px;
-  height: 16px;
+  left: -28px;
+  bottom: -5px;
+  width: 92px;
+  height: 18px;
   border-radius: 12px;
-  background: #0b1d2b;
-  transform: rotate(-17deg);
+  background: #b98162;
+  transform: rotate(-12deg);
+  box-shadow: inset 0 -5px 0 rgba(80, 44, 34, 0.18);
+}
+
+.bielsa-hand {
+  position: absolute;
+  left: 44px;
+  bottom: -11px;
+  width: 25px;
+  height: 18px;
+  border-radius: 45% 55% 50% 50%;
+  background: #d09a75;
+  transform: rotate(11deg);
+  z-index: 6;
+}
+
+.bielsa-shirt-text {
+  position: absolute;
+  left: 22px;
+  top: 34px;
+  color: #b9d9fb;
+  font-size: 0.58rem;
+  font-weight: 900;
+  letter-spacing: 0.12em;
+  transform: rotate(4deg);
+}
+
+.bielsa-calculator {
+  position: absolute;
+  right: 50px;
+  bottom: 12px;
+  width: 74px;
+  height: 42px;
+  border-radius: 8px;
+  background: #243444;
+  border: 3px solid #0c1822;
+  transform: rotate(-6deg);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 4px;
+  padding: 6px;
+  z-index: 7;
+}
+
+.bielsa-calculator .calc-screen {
+  grid-column: 1 / -1;
+  height: 10px;
+  border-radius: 3px;
+  background: #7fa18f;
+}
+
+.bielsa-calculator span:not(.calc-screen) {
+  border-radius: 3px;
+  background: #cfd5d8;
+}
+
+.bielsa-calculator span:nth-child(3) {
+  background: #df5145;
+}
+
+.bielsa-calculator span:nth-child(5) {
+  background: #45a05d;
+}
+
+.bielsa-mate {
+  position: absolute;
+  left: 4px;
+  bottom: 0;
+  width: 40px;
+  height: 23px;
+  border-radius: 8px 8px 12px 12px;
+  background: #b7aa72;
+  border: 2px solid rgba(14, 28, 38, 0.72);
+  z-index: 5;
+}
+
+.bielsa-mate::before {
+  content: "";
+  position: absolute;
+  inset: 3px 5px 9px;
+  border-radius: 50%;
+  background: #516b2c;
+}
+
+.bielsa-mate span {
+  position: absolute;
+  right: -15px;
+  top: -12px;
+  width: 28px;
+  height: 3px;
+  border-radius: 999px;
+  background: #dce3e8;
+  transform: rotate(-56deg);
 }
 
 .bielsa-board {
   position: absolute;
-  right: 76px;
+  right: 0;
   bottom: 0;
-  width: 72px;
-  height: 48px;
+  width: 76px;
+  height: 50px;
   border-radius: 6px;
   background: #f7fbff;
   border: 3px solid #0b1d2b;
-  transform: rotate(-8deg);
+  transform: rotate(-4deg);
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 5px;
