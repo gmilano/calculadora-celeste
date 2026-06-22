@@ -6,8 +6,9 @@ Sitio publico para seguir las chances de Uruguay en el Mundial 2026.
 
 - Tablas en vivo de los 12 grupos.
 - Ranking de los terceros, con corte de clasificacion para los 8 mejores.
-- Simulador del Grupo H para Uruguay vs Espana y Cabo Verde vs Arabia Saudita.
-- Resultados del grupo de Uruguay.
+- Simulador global para tocar resultados probables de cualquier partido pendiente.
+- Proyeccion inmediata del Grupo H y del ranking de mejores terceros.
+- Agenda completa de los 72 partidos de fase de grupos.
 
 ## Datos
 

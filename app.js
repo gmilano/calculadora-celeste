@@ -144,12 +144,12 @@ function signed(value) {
   return value > 0 ? `+${value}` : String(value);
 }
 
-function renderStatus(rows, projected = false) {
+function renderStatus(rows, projected = false, groupsForThird = state.groups) {
   const ordered = sortRows(rows);
   const uruguayIndex = ordered.findIndex((row) => row.abbr === URU);
   const uruguay = ordered[uruguayIndex];
   const rank = uruguayIndex + 1;
-  const thirdRank = thirdPlaceRows(replaceGroup(state.groups, GROUP_H, ordered)).findIndex(
+  const thirdRank = thirdPlaceRows(replaceGroup(groupsForThird, GROUP_H, ordered)).findIndex(
     (row) => row.abbr === URU,
   );
 
@@ -298,16 +298,15 @@ function displayGroupName(groupName) {
   return groupName.replace("Group", "Grupo");
 }
 
-function pendingGroupHMatches() {
-  return state.events.filter((event) => {
-    if (event.completed) return false;
-    const names = [event.home.name, event.away.name];
-    return names.some((name) => ["Uruguay", "Spain", "Cape Verde", "Saudi Arabia"].includes(name));
-  });
+function pendingMatches() {
+  return state.events
+    .filter((event) => !event.completed)
+    .map((event) => ({ ...event, groupName: groupNameForEvent(event) }))
+    .sort((a, b) => new Date(a.date) - new Date(b.date));
 }
 
 function renderScenarioControls() {
-  const pending = pendingGroupHMatches();
+  const pending = pendingMatches();
   state.projectedMatches = new Map(
     pending.map((event) => [
       event.id,
@@ -329,6 +328,7 @@ function renderScenarioControls() {
                   new Date(event.date),
                 )}</span>
               </div>
+              <div class="control-meta">${impactLabel(event)}</div>
               <div class="score-row">
                 <label for="${event.id}-away">${event.away.name}</label>
                 <input id="${event.id}-away" type="number" min="0" max="20" value="0" data-event="${event.id}" data-side="awayScore" />
@@ -341,40 +341,84 @@ function renderScenarioControls() {
           `,
         )
         .join("")
-    : `<article class="control-card">No quedan partidos pendientes en el Grupo H.</article>`;
+    : `<article class="control-card">No quedan partidos pendientes para simular.</article>`;
 
-  $("scenarioControls").addEventListener("input", (event) => {
+  $("scenarioControls").oninput = (event) => {
     const input = event.target;
     if (!(input instanceof HTMLInputElement)) return;
     const current = state.projectedMatches.get(input.dataset.event);
     current[input.dataset.side] = Math.max(0, Number(input.value || 0));
     calculateScenario();
-  });
+  };
 
   calculateScenario();
 }
 
 function calculateScenario() {
-  const groupH = state.groups.find((group) => group.name === GROUP_H);
+  const projectedGroups = projectGroups();
+  const groupH = projectedGroups.find((group) => group.name === GROUP_H);
   if (!groupH) return;
 
-  const rows = new Map(groupH.rows.map((row) => [row.name ?? row.team, { ...row }]));
-  for (const event of pendingGroupHMatches()) {
-    const projection = state.projectedMatches.get(event.id);
-    if (!projection) continue;
-    applyResult(rows.get(event.home.name), rows.get(event.away.name), projection.homeScore, projection.awayScore);
-  }
-
-  const projectedRows = sortRows([...rows.values()]);
-  const status = renderStatus(projectedRows, true);
+  const status = renderStatus(groupH.rows, true, projectedGroups);
   $("scenarioVerdict").className = `verdict-card ${status.tone}`;
   $("scenarioVerdict").innerHTML = `
     <h3>${status.title}</h3>
     <p>${status.note}</p>
   `;
   $("projectedGroup").innerHTML = `
-    <h3>Grupo H proyectado</h3>
-    ${renderTable(projectedRows)}
+    <h3>Proyeccion con tus resultados</h3>
+    <div class="projection-grid">
+      <div>
+        <h4>Grupo H</h4>
+        ${renderTable(groupH.rows)}
+      </div>
+      <div>
+        <h4>Mejores terceros proyectados</h4>
+        ${renderProjectedThirds(projectedGroups)}
+      </div>
+    </div>
+  `;
+}
+
+function projectGroups() {
+  const groups = state.groups.map((group) => ({
+    ...group,
+    rows: group.rows.map((row) => ({ ...row })),
+  }));
+  const rowsByTeam = new Map(
+    groups.flatMap((group) => group.rows.map((row) => [row.team, row])),
+  );
+
+  for (const event of pendingMatches()) {
+    const projection = state.projectedMatches.get(event.id);
+    if (!projection) continue;
+    applyResult(
+      rowsByTeam.get(event.home.name),
+      rowsByTeam.get(event.away.name),
+      projection.homeScore,
+      projection.awayScore,
+    );
+  }
+
+  return groups.map((group) => ({ ...group, rows: sortRows(group.rows) }));
+}
+
+function renderProjectedThirds(groups) {
+  return `
+    <div class="projected-thirds">
+      ${thirdPlaceRows(groups)
+        .map((row, index) => {
+          const safe = index < QUALIFYING_THIRD_COUNT;
+          return `
+            <div class="projected-third ${safe ? "safe" : "danger"} ${row.abbr === URU ? "highlight" : ""}">
+              <span>#${index + 1}</span>
+              <strong>${row.team}</strong>
+              <small>${row.pts} pts · DG ${signed(row.gd)}</small>
+            </div>
+          `;
+        })
+        .join("")}
+    </div>
   `;
 }
 

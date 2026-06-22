@@ -332,6 +332,13 @@ tr.highlight {
   font-weight: 850;
 }
 
+.control-meta {
+  margin-top: 7px;
+  color: var(--muted);
+  font-size: 0.84rem;
+  line-height: 1.35;
+}
+
 .score-row {
   display: grid;
   grid-template-columns: 1fr 86px;
@@ -393,6 +400,47 @@ tr.highlight {
 .table-card {
   padding: 14px;
   min-width: 0;
+}
+
+.projection-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.05fr) minmax(260px, 0.95fr);
+  gap: 16px;
+}
+
+.projection-grid h4 {
+  margin: 2px 0 10px;
+}
+
+.projected-thirds {
+  display: grid;
+  gap: 8px;
+}
+
+.projected-third {
+  display: grid;
+  grid-template-columns: 36px 1fr auto;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--red);
+  border-radius: 8px;
+  padding: 9px 10px;
+  color: var(--ink);
+}
+
+.projected-third.safe {
+  border-left-color: var(--green);
+}
+
+.projected-third.highlight {
+  background: rgba(95, 199, 245, 0.16);
+}
+
+.projected-third span,
+.projected-third small {
+  color: var(--muted);
+  font-size: 0.82rem;
 }
 
 .groups-grid {
@@ -530,7 +578,8 @@ tr.highlight {
   }
 
   .hero-grid,
-  .calculator-layout {
+  .calculator-layout,
+  .projection-grid {
     grid-template-columns: minmax(0, 1fr);
   }
 
