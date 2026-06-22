@@ -2,11 +2,13 @@ const STANDINGS_URL =
   "https://site.web.api.espn.com/apis/v2/sports/soccer/fifa.world/standings?region=us&lang=en&contentorigin=espn&type=0&level=2&sort=rank:asc";
 const SCOREBOARD_URL =
   "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?dates=20260611-20260627&limit=200";
+const SNAPSHOT_URL = "./data/worldcup-2026.json";
 
 const GROUP_H = "Group H";
 const URUGUAY = "Uruguay";
 const URU = "URU";
 const QUALIFYING_THIRD_COUNT = 8;
+const AUTO_REFRESH_MS = 3 * 60 * 60 * 1000;
 
 const state = {
   groups: [],
@@ -382,18 +384,12 @@ function applyResult(home, away, homeScore, awayScore) {
 async function loadData() {
   $("refreshBtn").disabled = true;
   try {
-    const [standings, scoreboard] = await Promise.all([
-      fetch(STANDINGS_URL, { cache: "no-store" }).then((response) => response.json()),
-      fetch(SCOREBOARD_URL, { cache: "no-store" }).then((response) => response.json()),
-    ]);
-    state.groups = parseGroups(standings);
-    state.events = parseEvents(scoreboard);
+    const data = await fetchData();
+    state.groups = parseGroups(data.standings);
+    state.events = parseEvents(data.scoreboard);
     renderCurrent();
     renderScenarioControls();
-    $("lastUpdated").textContent = new Intl.DateTimeFormat("es-UY", {
-      hour: "2-digit",
-      minute: "2-digit",
-    }).format(new Date());
+    $("lastUpdated").textContent = formatUpdateLabel(data.fetchedAt, data.source);
   } catch (error) {
     $("uruguayStatus").className = "status-card error";
     $("uruguayStatus").textContent =
@@ -404,5 +400,44 @@ async function loadData() {
   }
 }
 
+async function fetchData() {
+  try {
+    const [standings, scoreboard] = await Promise.all([
+      fetch(STANDINGS_URL, { cache: "no-store" }).then(assertJson),
+      fetch(SCOREBOARD_URL, { cache: "no-store" }).then(assertJson),
+    ]);
+    return {
+      source: "vivo",
+      fetchedAt: new Date().toISOString(),
+      standings,
+      scoreboard,
+    };
+  } catch (error) {
+    console.warn("Live data failed, using scheduled snapshot", error);
+    const snapshot = await fetch(SNAPSHOT_URL, { cache: "no-store" }).then(assertJson);
+    return {
+      ...snapshot,
+      source: "snapshot 3h",
+    };
+  }
+}
+
+function assertJson(response) {
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status} ${response.url}`);
+  }
+  return response.json();
+}
+
+function formatUpdateLabel(fetchedAt, source) {
+  const date = fetchedAt ? new Date(fetchedAt) : new Date();
+  const time = new Intl.DateTimeFormat("es-UY", {
+    hour: "2-digit",
+    minute: "2-digit",
+  }).format(date);
+  return `${time} · ${source}`;
+}
+
 $("refreshBtn").addEventListener("click", loadData);
 loadData();
+window.setInterval(loadData, AUTO_REFRESH_MS);
