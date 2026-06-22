@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-22T18:35:25.666Z",
+  "fetchedAt": "2026-06-22T18:36:22.979Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -42728,8 +42728,8 @@
             "timeValid": true,
             "recent": true,
             "status": {
-              "clock": 4200,
-              "displayClock": "70'",
+              "clock": 4260,
+              "displayClock": "71'",
               "period": 2,
               "type": {
                 "id": "26",
@@ -42737,8 +42737,8 @@
                 "state": "in",
                 "completed": false,
                 "description": "Second Half",
-                "detail": "70'",
-                "shortDetail": "70'"
+                "detail": "71'",
+                "shortDetail": "71'"
               }
             },
             "venue": {
@@ -43330,7 +43330,7 @@
                     },
                     "current": {
                       "line": "o1.5",
-                      "odds": "-130",
+                      "odds": "-123",
                       "link": {
                         "rel": [
                           "over",
@@ -43362,7 +43362,7 @@
                     },
                     "current": {
                       "line": "u1.5",
-                      "odds": "+109",
+                      "odds": "+104",
                       "link": {
                         "rel": [
                           "under",
@@ -43398,7 +43398,7 @@
                     },
                     "current": {
                       "line": "-1.5",
-                      "odds": "+200",
+                      "odds": "+210",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -43430,7 +43430,7 @@
                     },
                     "current": {
                       "line": "+1.5",
-                      "odds": "-260",
+                      "odds": "-265",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -43549,8 +43549,8 @@
           }
         ],
         "status": {
-          "clock": 4200,
-          "displayClock": "70'",
+          "clock": 4260,
+          "displayClock": "71'",
           "period": 2,
           "type": {
             "id": "26",
@@ -43558,8 +43558,8 @@
             "state": "in",
             "completed": false,
             "description": "Second Half",
-            "detail": "70'",
-            "shortDetail": "70'"
+            "detail": "71'",
+            "shortDetail": "71'"
           }
         },
         "venue": {
