@@ -200,7 +200,7 @@ function renderCurrent() {
     .map(
       (group) => `
         <article class="group-card">
-          <h3>${group.name}</h3>
+          <h3>${displayGroupName(group.name)}</h3>
           ${renderTable(group.rows, true)}
         </article>
       `,
@@ -230,7 +230,7 @@ function renderThirdRanking(groups) {
             ${row.logo ? `<img src="${row.logo}" alt="" loading="lazy" />` : ""}
             <span>${row.team}</span>
           </div>
-          <div class="third-meta">${row.groupName} · ${row.pts} pts · DG ${signed(row.gd)} · GF ${row.gf}</div>
+          <div class="third-meta">${displayGroupName(row.groupName)} · ${row.pts} pts · DG ${signed(row.gd)} · GF ${row.gf}</div>
         </article>
       `;
     })
@@ -238,17 +238,11 @@ function renderThirdRanking(groups) {
 }
 
 function renderMatches() {
-  const focus = state.events.filter((event) => {
-    const teams = [event.home.abbr, event.away.abbr, event.home.name, event.away.name];
-    return (
-      teams.includes(URU) ||
-      teams.includes("Spain") ||
-      teams.includes("Cape Verde") ||
-      teams.includes("Saudi Arabia")
-    );
-  });
+  const groupedEvents = state.events
+    .map((event) => ({ ...event, groupName: groupNameForEvent(event) }))
+    .sort((a, b) => new Date(a.date) - new Date(b.date));
 
-  $("matches").innerHTML = focus
+  $("matches").innerHTML = groupedEvents
     .map((event) => {
       const date = new Intl.DateTimeFormat("es-UY", {
         weekday: "short",
@@ -260,18 +254,48 @@ function renderMatches() {
       const score = event.completed
         ? `${event.away.score} - ${event.home.score}`
         : event.detail || "Pendiente";
+      const impact = impactLabel(event);
       return `
         <article class="match-card">
-          <div class="match-date">${date}</div>
+          <div class="match-date">
+            <span>${date}</span>
+            <span>${event.completed ? "Finalizado" : "Pendiente"}</span>
+          </div>
           <div class="match-line">
             <span>${event.away.name}</span>
             <span class="match-score">${score}</span>
             <span>${event.home.name}</span>
           </div>
+          <div class="impact-line">${impact}</div>
         </article>
       `;
     })
     .join("");
+}
+
+function groupNameForEvent(event) {
+  return (
+    state.groups.find((group) => {
+      const teams = new Set(group.rows.map((row) => row.team));
+      return teams.has(event.home.name) && teams.has(event.away.name);
+    })?.name ?? "Grupo"
+  );
+}
+
+function impactLabel(event) {
+  const uruguayMatch = [event.home.abbr, event.away.abbr].includes(URU);
+  const group = displayGroupName(event.groupName);
+  if (uruguayMatch) {
+    return `${group} · mueve clasificacion directa de Uruguay`;
+  }
+  if (event.groupName === GROUP_H) {
+    return `${group} · mueve el grupo de Uruguay`;
+  }
+  return `${group} · mueve el corte de mejores terceros`;
+}
+
+function displayGroupName(groupName) {
+  return groupName.replace("Group", "Grupo");
 }
 
 function pendingGroupHMatches() {
