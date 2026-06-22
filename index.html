@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#65c7f7" />
+    <meta
+      name="description"
+      content="La Calculadora Celeste: tablas, resultados y escenarios de Uruguay en el Mundial 2026."
+    />
+    <title>La Calculadora Celeste</title>
+    <link rel="preconnect" href="https://a.espncdn.com" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <nav class="topbar" aria-label="Navegacion principal">
+        <a class="brand" href="#inicio" aria-label="La Calculadora Celeste">
+          <span class="brand-mark">URU</span>
+          <span>La Calculadora Celeste</span>
+        </a>
+        <div class="nav-actions">
+          <a href="#calculadora">Calculadora</a>
+          <a href="#grupos">Grupos</a>
+          <a href="#terceros">Terceros</a>
+        </div>
+      </nav>
+
+      <section id="inicio" class="hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">Mundial 2026</p>
+          <h1>La Calculadora Celeste</h1>
+          <p class="tagline">Vayan sacando las calculadoras.</p>
+          <p class="lead">
+            Tablas en vivo, ranking de terceros y el simulador de resultados
+            que le marca a Uruguay si respira, sufre o precisa calculadora
+            cientifica.
+          </p>
+          <div class="hero-actions">
+            <a class="primary-link" href="#calculadora">Probar escenario</a>
+            <button id="refreshBtn" class="ghost-button" type="button">Actualizar</button>
+          </div>
+        </div>
+
+        <aside class="match-panel" aria-label="Estado de Uruguay">
+          <div class="panel-head">
+            <span>Estado celeste</span>
+            <span id="lastUpdated">Cargando...</span>
+          </div>
+          <div id="uruguayStatus" class="status-card loading">Buscando la tabla...</div>
+          <div id="groupHMini" class="mini-table"></div>
+        </aside>
+      </section>
+    </header>
+
+    <main>
+      <section id="calculadora" class="section">
+        <div class="section-head">
+          <p class="eyebrow">Simulador</p>
+          <h2>Que tiene que pasar</h2>
+          <p>
+            Mové los goles pendientes del grupo de Uruguay. La tabla y el ranking
+            de terceros se recalculan al toque.
+          </p>
+        </div>
+
+        <div class="calculator-layout">
+          <div class="scenario-controls" id="scenarioControls"></div>
+          <div class="scenario-result">
+            <div id="scenarioVerdict" class="verdict-card"></div>
+            <div id="projectedGroup" class="table-card"></div>
+          </div>
+        </div>
+      </section>
+
+      <section id="terceros" class="section section-alt">
+        <div class="section-head">
+          <p class="eyebrow">Top 8 de 12</p>
+          <h2>Ranking de terceros</h2>
+          <p>
+            Entran los ocho mejores terceros. Primero puntos, despues diferencia
+            de gol y goles a favor.
+          </p>
+        </div>
+        <div id="thirdRanking" class="third-grid"></div>
+      </section>
+
+      <section id="partidos" class="section">
+        <div class="section-head">
+          <p class="eyebrow">Agenda</p>
+          <h2>Resultados que mueven la calculadora</h2>
+        </div>
+        <div id="matches" class="matches"></div>
+      </section>
+
+      <section id="grupos" class="section section-alt">
+        <div class="section-head">
+          <p class="eyebrow">Tablas</p>
+          <h2>Todos los grupos</h2>
+        </div>
+        <div id="groups" class="groups-grid"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span>Datos: ESPN public APIs.</span>
+      <span>Hecho para sufrir con orden.</span>
+    </footer>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
