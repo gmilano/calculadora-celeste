@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-24T07:10:54.874Z",
+  "fetchedAt": "2026-06-24T10:05:20.882Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -7896,6 +7896,195 @@
           "entries": [
             {
               "team": {
+                "id": "208",
+                "uid": "s:600~t:208",
+                "location": "Colombia",
+                "name": "Colombia",
+                "abbreviation": "COL",
+                "displayName": "Colombia",
+                "shortDisplayName": "Colombia",
+                "isActive": true,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/countries/500/col.png",
+                    "width": 500,
+                    "height": 500,
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "lastUpdated": "2023-10-25T16:20Z"
+                  }
+                ],
+                "links": [
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/_/id/208/colombia",
+                    "text": "Clubhouse",
+                    "shortText": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  }
+                ],
+                "isNational": true
+              },
+              "note": {
+                "color": "#81D6AC",
+                "description": "Advance to Round of 32",
+                "rank": 1
+              },
+              "stats": [
+                {
+                  "name": "gamesPlayed",
+                  "displayName": "Games Played",
+                  "shortDisplayName": "GP",
+                  "description": "Number of Games Played",
+                  "abbreviation": "GP",
+                  "type": "gamesplayed",
+                  "value": 2,
+                  "displayValue": "2"
+                },
+                {
+                  "name": "losses",
+                  "displayName": "Losses",
+                  "shortDisplayName": "L",
+                  "description": "Losses",
+                  "abbreviation": "L",
+                  "type": "losses",
+                  "value": 0,
+                  "displayValue": "0"
+                },
+                {
+                  "name": "pointDifferential",
+                  "displayName": "Goal Difference",
+                  "shortDisplayName": "GD",
+                  "description": "Goal Difference",
+                  "abbreviation": "GD",
+                  "type": "pointdifferential",
+                  "value": 3,
+                  "displayValue": "+3"
+                },
+                {
+                  "name": "points",
+                  "displayName": "Points",
+                  "shortDisplayName": "P",
+                  "description": "Points",
+                  "abbreviation": "P",
+                  "type": "points",
+                  "value": 6,
+                  "displayValue": "6"
+                },
+                {
+                  "name": "pointsAgainst",
+                  "displayName": "Goals Against",
+                  "shortDisplayName": "A",
+                  "description": "Goals Against",
+                  "abbreviation": "A",
+                  "type": "pointsagainst",
+                  "value": 1,
+                  "displayValue": "1"
+                },
+                {
+                  "name": "pointsFor",
+                  "displayName": "Goals For",
+                  "shortDisplayName": "F",
+                  "description": "Goals For",
+                  "abbreviation": "F",
+                  "type": "pointsfor",
+                  "value": 4,
+                  "displayValue": "4"
+                },
+                {
+                  "name": "ties",
+                  "displayName": "Draws",
+                  "shortDisplayName": "D",
+                  "description": "Draws",
+                  "abbreviation": "D",
+                  "type": "ties",
+                  "value": 0,
+                  "displayValue": "0"
+                },
+                {
+                  "name": "wins",
+                  "displayName": "Wins",
+                  "shortDisplayName": "W",
+                  "description": "Wins",
+                  "abbreviation": "W",
+                  "type": "wins",
+                  "value": 2,
+                  "displayValue": "2"
+                },
+                {
+                  "name": "advanced",
+                  "displayName": "Advanced",
+                  "shortDisplayName": "ADV",
+                  "description": "Advanced",
+                  "abbreviation": "ADV",
+                  "type": "advanced",
+                  "value": 1,
+                  "displayValue": "1"
+                },
+                {
+                  "name": "deductions",
+                  "displayName": "Point Deductions",
+                  "shortDisplayName": "Deductions",
+                  "description": "Point Deductions",
+                  "abbreviation": "PD",
+                  "type": "deductions",
+                  "value": 0,
+                  "displayValue": ""
+                },
+                {
+                  "name": "ppg",
+                  "displayName": "Points Per Game",
+                  "shortDisplayName": "PPG",
+                  "description": "Points Per Game",
+                  "abbreviation": "PPG",
+                  "type": "ppg",
+                  "value": 0,
+                  "displayValue": "0"
+                },
+                {
+                  "name": "rank",
+                  "displayName": "Rank",
+                  "shortDisplayName": "Rank",
+                  "description": "Rank",
+                  "abbreviation": "R",
+                  "type": "rank",
+                  "value": 1,
+                  "displayValue": "1"
+                },
+                {
+                  "name": "rankChange",
+                  "displayName": "Rank Change",
+                  "shortDisplayName": "Rank Change",
+                  "description": "Rank Change",
+                  "abbreviation": "RC",
+                  "type": "rankchange",
+                  "value": 0,
+                  "displayValue": "0"
+                },
+                {
+                  "id": "0",
+                  "name": "overall",
+                  "abbreviation": "Total",
+                  "displayName": "Overall",
+                  "shortDisplayName": "OVER",
+                  "description": "Overall Record",
+                  "type": "total",
+                  "summary": "2-0-0",
+                  "displayValue": "2-0-0"
+                }
+              ]
+            },
+            {
+              "team": {
                 "id": "482",
                 "uid": "s:600~t:482",
                 "location": "Portugal",
@@ -7937,7 +8126,7 @@
               "note": {
                 "color": "#81D6AC",
                 "description": "Advance to Round of 32",
-                "rank": 1
+                "rank": 2
               },
               "stats": [
                 {
@@ -8057,195 +8246,6 @@
                   "description": "Rank",
                   "abbreviation": "R",
                   "type": "rank",
-                  "value": 1,
-                  "displayValue": "1"
-                },
-                {
-                  "name": "rankChange",
-                  "displayName": "Rank Change",
-                  "shortDisplayName": "Rank Change",
-                  "description": "Rank Change",
-                  "abbreviation": "RC",
-                  "type": "rankchange",
-                  "value": 0,
-                  "displayValue": "0"
-                },
-                {
-                  "id": "0",
-                  "name": "overall",
-                  "abbreviation": "Total",
-                  "displayName": "Overall",
-                  "shortDisplayName": "OVER",
-                  "description": "Overall Record",
-                  "type": "total",
-                  "summary": "1-1-0",
-                  "displayValue": "1-1-0"
-                }
-              ]
-            },
-            {
-              "team": {
-                "id": "208",
-                "uid": "s:600~t:208",
-                "location": "Colombia",
-                "name": "Colombia",
-                "abbreviation": "COL",
-                "displayName": "Colombia",
-                "shortDisplayName": "Colombia",
-                "isActive": true,
-                "logos": [
-                  {
-                    "href": "https://a.espncdn.com/i/teamlogos/countries/500/col.png",
-                    "width": 500,
-                    "height": 500,
-                    "alt": "",
-                    "rel": [
-                      "full",
-                      "default"
-                    ],
-                    "lastUpdated": "2023-10-25T16:20Z"
-                  }
-                ],
-                "links": [
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "desktop",
-                      "team"
-                    ],
-                    "href": "https://www.espn.com/soccer/team/_/id/208/colombia",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  }
-                ],
-                "isNational": true
-              },
-              "note": {
-                "color": "#81D6AC",
-                "description": "Advance to Round of 32",
-                "rank": 2
-              },
-              "stats": [
-                {
-                  "name": "gamesPlayed",
-                  "displayName": "Games Played",
-                  "shortDisplayName": "GP",
-                  "description": "Number of Games Played",
-                  "abbreviation": "GP",
-                  "type": "gamesplayed",
-                  "value": 1,
-                  "displayValue": "1"
-                },
-                {
-                  "name": "losses",
-                  "displayName": "Losses",
-                  "shortDisplayName": "L",
-                  "description": "Losses",
-                  "abbreviation": "L",
-                  "type": "losses",
-                  "value": 0,
-                  "displayValue": "0"
-                },
-                {
-                  "name": "pointDifferential",
-                  "displayName": "Goal Difference",
-                  "shortDisplayName": "GD",
-                  "description": "Goal Difference",
-                  "abbreviation": "GD",
-                  "type": "pointdifferential",
-                  "value": 2,
-                  "displayValue": "+2"
-                },
-                {
-                  "name": "points",
-                  "displayName": "Points",
-                  "shortDisplayName": "P",
-                  "description": "Points",
-                  "abbreviation": "P",
-                  "type": "points",
-                  "value": 3,
-                  "displayValue": "3"
-                },
-                {
-                  "name": "pointsAgainst",
-                  "displayName": "Goals Against",
-                  "shortDisplayName": "A",
-                  "description": "Goals Against",
-                  "abbreviation": "A",
-                  "type": "pointsagainst",
-                  "value": 1,
-                  "displayValue": "1"
-                },
-                {
-                  "name": "pointsFor",
-                  "displayName": "Goals For",
-                  "shortDisplayName": "F",
-                  "description": "Goals For",
-                  "abbreviation": "F",
-                  "type": "pointsfor",
-                  "value": 3,
-                  "displayValue": "3"
-                },
-                {
-                  "name": "ties",
-                  "displayName": "Draws",
-                  "shortDisplayName": "D",
-                  "description": "Draws",
-                  "abbreviation": "D",
-                  "type": "ties",
-                  "value": 0,
-                  "displayValue": "0"
-                },
-                {
-                  "name": "wins",
-                  "displayName": "Wins",
-                  "shortDisplayName": "W",
-                  "description": "Wins",
-                  "abbreviation": "W",
-                  "type": "wins",
-                  "value": 1,
-                  "displayValue": "1"
-                },
-                {
-                  "name": "advanced",
-                  "displayName": "Advanced",
-                  "shortDisplayName": "ADV",
-                  "description": "Advanced",
-                  "abbreviation": "ADV",
-                  "type": "advanced",
-                  "value": 0,
-                  "displayValue": "0"
-                },
-                {
-                  "name": "deductions",
-                  "displayName": "Point Deductions",
-                  "shortDisplayName": "Deductions",
-                  "description": "Point Deductions",
-                  "abbreviation": "PD",
-                  "type": "deductions",
-                  "value": 0,
-                  "displayValue": ""
-                },
-                {
-                  "name": "ppg",
-                  "displayName": "Points Per Game",
-                  "shortDisplayName": "PPG",
-                  "description": "Points Per Game",
-                  "abbreviation": "PPG",
-                  "type": "ppg",
-                  "value": 0,
-                  "displayValue": "0"
-                },
-                {
-                  "name": "rank",
-                  "displayName": "Rank",
-                  "shortDisplayName": "Rank",
-                  "description": "Rank",
-                  "abbreviation": "R",
-                  "type": "rank",
                   "value": 2,
                   "displayValue": "2"
                 },
@@ -8267,8 +8267,8 @@
                   "shortDisplayName": "OVER",
                   "description": "Overall Record",
                   "type": "total",
-                  "summary": "1-0-0",
-                  "displayValue": "1-0-0"
+                  "summary": "1-1-0",
+                  "displayValue": "1-1-0"
                 }
               ]
             },
@@ -8325,8 +8325,8 @@
                   "description": "Number of Games Played",
                   "abbreviation": "GP",
                   "type": "gamesplayed",
-                  "value": 1,
-                  "displayValue": "1"
+                  "value": 2,
+                  "displayValue": "2"
                 },
                 {
                   "name": "losses",
@@ -8335,8 +8335,8 @@
                   "description": "Losses",
                   "abbreviation": "L",
                   "type": "losses",
-                  "value": 0,
-                  "displayValue": "0"
+                  "value": 1,
+                  "displayValue": "1"
                 },
                 {
                   "name": "pointDifferential",
@@ -8345,8 +8345,8 @@
                   "description": "Goal Difference",
                   "abbreviation": "GD",
                   "type": "pointdifferential",
-                  "value": 0,
-                  "displayValue": "0"
+                  "value": -1,
+                  "displayValue": "-1"
                 },
                 {
                   "name": "points",
@@ -8365,8 +8365,8 @@
                   "description": "Goals Against",
                   "abbreviation": "A",
                   "type": "pointsagainst",
-                  "value": 1,
-                  "displayValue": "1"
+                  "value": 2,
+                  "displayValue": "2"
                 },
                 {
                   "name": "pointsFor",
@@ -8456,8 +8456,8 @@
                   "shortDisplayName": "OVER",
                   "description": "Overall Record",
                   "type": "total",
-                  "summary": "0-1-0",
-                  "displayValue": "0-1-0"
+                  "summary": "0-1-1",
+                  "displayValue": "0-1-1"
                 }
               ]
             },
@@ -48025,7 +48025,7 @@
             "startDate": "2026-06-24T02:00Z",
             "attendance": 45358,
             "timeValid": true,
-            "recent": true,
+            "recent": false,
             "status": {
               "clock": 5400,
               "displayClock": "90'+7'",
@@ -48781,8 +48781,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $355",
-                "numberAvailable": 413,
+                "summary": "Tickets as low as $357",
+                "numberAvailable": 379,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-lumen-field-6-24-2026--sports-soccer/production/5080607?wsUser=717"
@@ -49395,7 +49395,7 @@
                     },
                     "close": {
                       "line": "-1.5",
-                      "odds": "+105",
+                      "odds": "+100",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -49423,7 +49423,7 @@
                     },
                     "close": {
                       "line": "+1.5",
-                      "odds": "-135",
+                      "odds": "-125",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -49453,7 +49453,7 @@
                       "odds": "-140"
                     },
                     "close": {
-                      "odds": "-245",
+                      "odds": "-255",
                       "link": {
                         "rel": [
                           "home",
@@ -49524,7 +49524,7 @@
                     }
                   }
                 },
-                "details": "BIH -245"
+                "details": "BIH -255"
               }
             ],
             "wasSuspended": false,
@@ -49636,8 +49636,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $837",
-                "numberAvailable": 390,
+                "summary": "Tickets as low as $831",
+                "numberAvailable": 419,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-bc-place-stadium-6-24-2026--sports-soccer/production/5080604?wsUser=717"
@@ -50479,8 +50479,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $432",
-                "numberAvailable": 549,
+                "summary": "Tickets as low as $421",
+                "numberAvailable": 579,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-mercedes-benz-stadium-6-24-2026--sports-soccer/production/5080602?wsUser=717"
@@ -50975,7 +50975,7 @@
             "details": [],
             "odds": [
               {
-                "overUnder": 3.5,
+                "overUnder": 2.5,
                 "link": {
                   "language": "en-US",
                   "rel": [
@@ -51022,14 +51022,14 @@
                       "odds": "-140"
                     },
                     "close": {
-                      "line": "o3.5",
-                      "odds": "+140",
+                      "line": "o2.5",
+                      "odds": "-185",
                       "link": {
                         "rel": [
                           "over",
                           "bets"
                         ],
-                        "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34206872%3Foutcomes%3D0OU84978547O350_1",
+                        "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34206872%3Foutcomes%3D0OU84978547O250_1",
                         "tracking": {
                           "campaign": "betting-integrations",
                           "tags": {
@@ -51038,7 +51038,7 @@
                             "gameId": 760464,
                             "betSide": "over",
                             "betType": "straight",
-                            "betDetails": "Over:3.5"
+                            "betDetails": "Over:2.5"
                           }
                         }
                       }
@@ -51050,14 +51050,14 @@
                       "odds": "+110"
                     },
                     "close": {
-                      "line": "u3.5",
-                      "odds": "-175",
+                      "line": "u2.5",
+                      "odds": "+150",
                       "link": {
                         "rel": [
                           "under",
                           "bets"
                         ],
-                        "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34206872%3Foutcomes%3D0OU84978547U350_3",
+                        "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34206872%3Foutcomes%3D0OU84978547U250_3",
                         "tracking": {
                           "campaign": "betting-integrations",
                           "tags": {
@@ -51066,7 +51066,7 @@
                             "gameId": 760464,
                             "betSide": "under",
                             "betType": "straight",
-                            "betDetails": "Under:3.5"
+                            "betDetails": "Under:2.5"
                           }
                         }
                       }
@@ -51083,7 +51083,7 @@
                     },
                     "close": {
                       "line": "-1.5",
-                      "odds": "-175",
+                      "odds": "-170",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -51324,8 +51324,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $3,276",
-                "numberAvailable": 148,
+                "summary": "Tickets as low as $3,275",
+                "numberAvailable": 135,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-hard-rock-stadium-6-24-2026--sports-soccer/production/5080601?wsUser=717"
@@ -51839,7 +51839,7 @@
                   "priority": 1
                 },
                 "drawOdds": {
-                  "moneyLine": 425,
+                  "moneyLine": 450,
                   "link": {
                     "language": "en-US",
                     "rel": [
@@ -51866,7 +51866,7 @@
                     },
                     "close": {
                       "line": "o2.5",
-                      "odds": "-120",
+                      "odds": "-125",
                       "link": {
                         "rel": [
                           "over",
@@ -51926,7 +51926,7 @@
                     },
                     "close": {
                       "line": "+1.5",
-                      "odds": "-125",
+                      "odds": "-120",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -51954,7 +51954,7 @@
                     },
                     "close": {
                       "line": "-1.5",
-                      "odds": "-105",
+                      "odds": "-110",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -51984,7 +51984,7 @@
                       "odds": "+650"
                     },
                     "close": {
-                      "odds": "+800",
+                      "odds": "+850",
                       "link": {
                         "rel": [
                           "home",
@@ -52009,7 +52009,7 @@
                       "odds": "-250"
                     },
                     "close": {
-                      "odds": "-290",
+                      "odds": "-300",
                       "link": {
                         "rel": [
                           "away",
@@ -52034,7 +52034,7 @@
                       "odds": "+390"
                     },
                     "close": {
-                      "odds": "+425",
+                      "odds": "+450",
                       "link": {
                         "rel": [
                           "draw",
@@ -52055,7 +52055,7 @@
                     }
                   }
                 },
-                "details": "BRA -290"
+                "details": "BRA -300"
               }
             ],
             "wasSuspended": false,
@@ -52668,7 +52668,7 @@
                   "priority": 1
                 },
                 "drawOdds": {
-                  "moneyLine": 290,
+                  "moneyLine": 285,
                   "link": {
                     "language": "en-US",
                     "rel": [
@@ -52723,7 +52723,7 @@
                     },
                     "close": {
                       "line": "u2.5",
-                      "odds": "-115",
+                      "odds": "-120",
                       "link": {
                         "rel": [
                           "under",
@@ -52813,7 +52813,7 @@
                       "odds": "+300"
                     },
                     "close": {
-                      "odds": "+260",
+                      "odds": "+270",
                       "link": {
                         "rel": [
                           "home",
@@ -52863,7 +52863,7 @@
                       "odds": "+245"
                     },
                     "close": {
-                      "odds": "+290",
+                      "odds": "+285",
                       "link": {
                         "rel": [
                           "draw",
@@ -53586,7 +53586,7 @@
                     },
                     "close": {
                       "line": "+0.5",
-                      "odds": "+125",
+                      "odds": "+130",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -53644,7 +53644,7 @@
                       "odds": "+265"
                     },
                     "close": {
-                      "odds": "+425",
+                      "odds": "+450",
                       "link": {
                         "rel": [
                           "home",
@@ -53828,7 +53828,7 @@
             "tickets": [
               {
                 "summary": "Tickets as low as $565",
-                "numberAvailable": 354,
+                "numberAvailable": 411,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-lincoln-financial-field-6-25-2026--sports-soccer/production/5080643?wsUser=717"
@@ -54671,7 +54671,7 @@
             "tickets": [
               {
                 "summary": "Tickets as low as $1,147",
-                "numberAvailable": 695,
+                "numberAvailable": 755,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-metlife-stadium-6-25-2026--sports-soccer/production/5080645?wsUser=717"
@@ -55514,7 +55514,7 @@
             "tickets": [
               {
                 "summary": "Tickets as low as $1,068",
-                "numberAvailable": 650,
+                "numberAvailable": 632,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-att-stadium-6-25-2026--sports-soccer/production/5080649?wsUser=717"
@@ -56028,7 +56028,7 @@
                   "priority": 1
                 },
                 "drawOdds": {
-                  "moneyLine": 250,
+                  "moneyLine": 255,
                   "link": {
                     "language": "en-US",
                     "rel": [
@@ -56055,7 +56055,7 @@
                     },
                     "close": {
                       "line": "o2.5",
-                      "odds": "-130",
+                      "odds": "-135",
                       "link": {
                         "rel": [
                           "over",
@@ -56115,7 +56115,7 @@
                     },
                     "close": {
                       "line": "-0.5",
-                      "odds": "-115",
+                      "odds": "-120",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -56143,7 +56143,7 @@
                     },
                     "close": {
                       "line": "+0.5",
-                      "odds": "-110",
+                      "odds": "-105",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -56173,7 +56173,7 @@
                       "odds": "+105"
                     },
                     "close": {
-                      "odds": "-110",
+                      "odds": "-115",
                       "link": {
                         "rel": [
                           "home",
@@ -56198,7 +56198,7 @@
                       "odds": "+270"
                     },
                     "close": {
-                      "odds": "+330",
+                      "odds": "+340",
                       "link": {
                         "rel": [
                           "away",
@@ -56223,7 +56223,7 @@
                       "odds": "+250"
                     },
                     "close": {
-                      "odds": "+250",
+                      "odds": "+255",
                       "link": {
                         "rel": [
                           "draw",
@@ -56244,7 +56244,7 @@
                     }
                   }
                 },
-                "details": "JPN -110"
+                "details": "JPN -115"
               }
             ],
             "wasSuspended": false,
@@ -56357,7 +56357,7 @@
             "tickets": [
               {
                 "summary": "Tickets as low as $609",
-                "numberAvailable": 639,
+                "numberAvailable": 716,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-geha-field-at-arrowhead-stadium-6-25-2026--sports-soccer/production/5080653?wsUser=717"
@@ -57203,8 +57203,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $921",
-                "numberAvailable": 425,
+                "summary": "Tickets as low as $867",
+                "numberAvailable": 397,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-levis-stadium-6-25-2026--sports-soccer/production/5080661?wsUser=717"
@@ -57805,7 +57805,7 @@
                     },
                     "close": {
                       "line": "-0.5",
-                      "odds": "+180",
+                      "odds": "+185",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -57833,7 +57833,7 @@
                     },
                     "close": {
                       "line": "+0.5",
-                      "odds": "-235",
+                      "odds": "-240",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -58046,8 +58046,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $1,277",
-                "numberAvailable": 802,
+                "summary": "Tickets as low as $1,230",
+                "numberAvailable": 709,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-sofi-stadium-6-25-2026--sports-soccer/production/5080656?wsUser=717"
@@ -58648,7 +58648,7 @@
                     },
                     "close": {
                       "line": "+0.5",
-                      "odds": "-115",
+                      "odds": "-110",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -58676,7 +58676,7 @@
                     },
                     "close": {
                       "line": "-0.5",
-                      "odds": "-110",
+                      "odds": "-115",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -58890,7 +58890,7 @@
             "tickets": [
               {
                 "summary": "Tickets as low as $2,116",
-                "numberAvailable": 504,
+                "numberAvailable": 521,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-gillette-stadium-6-26-2026--sports-soccer/production/5080674?wsUser=717"
@@ -59404,7 +59404,7 @@
                   "priority": 1
                 },
                 "drawOdds": {
-                  "moneyLine": 320,
+                  "moneyLine": 330,
                   "link": {
                     "language": "en-US",
                     "rel": [
@@ -59459,7 +59459,7 @@
                     },
                     "close": {
                       "line": "u2.5",
-                      "odds": "+115",
+                      "odds": "+120",
                       "link": {
                         "rel": [
                           "under",
@@ -59491,7 +59491,7 @@
                     },
                     "close": {
                       "line": "+0.5",
-                      "odds": "+120",
+                      "odds": "+125",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -59519,7 +59519,7 @@
                     },
                     "close": {
                       "line": "-0.5",
-                      "odds": "-150",
+                      "odds": "-155",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -59549,7 +59549,7 @@
                       "odds": "+390"
                     },
                     "close": {
-                      "odds": "+360",
+                      "odds": "+370",
                       "link": {
                         "rel": [
                           "home",
@@ -59574,7 +59574,7 @@
                       "odds": "-140"
                     },
                     "close": {
-                      "odds": "-145",
+                      "odds": "-150",
                       "link": {
                         "rel": [
                           "away",
@@ -59599,7 +59599,7 @@
                       "odds": "+285"
                     },
                     "close": {
-                      "odds": "+320",
+                      "odds": "+330",
                       "link": {
                         "rel": [
                           "draw",
@@ -59620,7 +59620,7 @@
                     }
                   }
                 },
-                "details": "FRA -145"
+                "details": "FRA -150"
               }
             ],
             "wasSuspended": false,
@@ -62036,7 +62036,7 @@
                       "odds": "+425"
                     },
                     "close": {
-                      "odds": "+600",
+                      "odds": "+650",
                       "link": {
                         "rel": [
                           "home",
@@ -62061,7 +62061,7 @@
                       "odds": "-155"
                     },
                     "close": {
-                      "odds": "-200",
+                      "odds": "-205",
                       "link": {
                         "rel": [
                           "away",
@@ -62107,7 +62107,7 @@
                     }
                   }
                 },
-                "details": "ESP -200"
+                "details": "ESP -205"
               }
             ],
             "wasSuspended": false,
@@ -62220,7 +62220,7 @@
             "tickets": [
               {
                 "summary": "Tickets as low as $684",
-                "numberAvailable": 852,
+                "numberAvailable": 892,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-lumen-field-6-26-2026--sports-soccer/production/5080680?wsUser=717"
@@ -62761,7 +62761,7 @@
                     },
                     "close": {
                       "line": "o1.5",
-                      "odds": "-180",
+                      "odds": "-175",
                       "link": {
                         "rel": [
                           "over",
@@ -62789,7 +62789,7 @@
                     },
                     "close": {
                       "line": "u1.5",
-                      "odds": "+145",
+                      "odds": "+140",
                       "link": {
                         "rel": [
                           "under",
@@ -63062,8 +63062,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $709",
-                "numberAvailable": 513,
+                "summary": "Tickets as low as $649",
+                "numberAvailable": 561,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-bc-place-stadium-6-26-2026--sports-soccer/production/5080683?wsUser=717"
@@ -63906,7 +63906,7 @@
             "tickets": [
               {
                 "summary": "Tickets as low as $1,124",
-                "numberAvailable": 356,
+                "numberAvailable": 363,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-lincoln-financial-field-6-27-2026--sports-soccer/production/5080700?wsUser=717"
@@ -64507,7 +64507,7 @@
                     },
                     "close": {
                       "line": "-0.5",
-                      "odds": "-140",
+                      "odds": "-145",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -64535,7 +64535,7 @@
                     },
                     "close": {
                       "line": "+0.5",
-                      "odds": "+110",
+                      "odds": "+115",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -64565,7 +64565,7 @@
                       "odds": "-140"
                     },
                     "close": {
-                      "odds": "-130",
+                      "odds": "-135",
                       "link": {
                         "rel": [
                           "home",
@@ -64590,7 +64590,7 @@
                       "odds": "+400"
                     },
                     "close": {
-                      "odds": "+450",
+                      "odds": "+475",
                       "link": {
                         "rel": [
                           "away",
@@ -64636,7 +64636,7 @@
                     }
                   }
                 },
-                "details": "CRO -130"
+                "details": "CRO -135"
               }
             ],
             "wasSuspended": false,
@@ -64749,7 +64749,7 @@
             "tickets": [
               {
                 "summary": "Tickets as low as $1,485",
-                "numberAvailable": 883,
+                "numberAvailable": 894,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-metlife-stadium-6-27-2026--sports-soccer/production/5080698?wsUser=717"
@@ -65350,7 +65350,7 @@
                     },
                     "close": {
                       "line": "+2.5",
-                      "odds": "-170",
+                      "odds": "-165",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -65378,7 +65378,7 @@
                     },
                     "close": {
                       "line": "-2.5",
-                      "odds": "+135",
+                      "odds": "+130",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -65591,8 +65591,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $3,709",
-                "numberAvailable": 785,
+                "summary": "Tickets as low as $3,593",
+                "numberAvailable": 800,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-hard-rock-stadium-6-27-2026--sports-soccer/production/5080718?wsUser=717"
@@ -65800,8 +65800,8 @@
                     "abbreviation": "G",
                     "leaders": [
                       {
-                        "displayValue": "1",
-                        "value": 1,
+                        "displayValue": "2",
+                        "value": 2,
                         "athlete": {
                           "id": "146679",
                           "displayName": "Daniel Muñoz",
@@ -65840,8 +65840,8 @@
                     "abbreviation": "G",
                     "leaders": [
                       {
-                        "displayValue": "1",
-                        "value": 1,
+                        "displayValue": "2",
+                        "value": 2,
                         "athlete": {
                           "id": "146679",
                           "displayName": "Daniel Muñoz",
@@ -66006,14 +66006,14 @@
                     "abbreviation": "G",
                     "leaders": [
                       {
-                        "displayValue": "1",
-                        "value": 1,
+                        "displayValue": "2",
+                        "value": 2,
                         "athlete": {
-                          "id": "355061",
-                          "displayName": "João Neves",
-                          "shortName": "J. Neves",
-                          "fullName": "João Neves",
-                          "jersey": "15",
+                          "id": "22774",
+                          "displayName": "Cristiano Ronaldo",
+                          "shortName": "C. Ronaldo",
+                          "fullName": "Cristiano Ronaldo",
+                          "jersey": "7",
                           "active": true,
                           "team": {
                             "id": "482"
@@ -66025,12 +66025,12 @@
                                 "desktop",
                                 "athlete"
                               ],
-                              "href": "https://www.espn.com/soccer/player/_/id/355061/joao-neves",
+                              "href": "https://www.espn.com/soccer/player/_/id/22774/cristiano-ronaldo",
                               "isHidden": false
                             }
                           ],
                           "position": {
-                            "abbreviation": "M"
+                            "abbreviation": "F"
                           }
                         },
                         "team": {
@@ -66046,14 +66046,14 @@
                     "abbreviation": "G",
                     "leaders": [
                       {
-                        "displayValue": "1",
-                        "value": 1,
+                        "displayValue": "2",
+                        "value": 2,
                         "athlete": {
-                          "id": "355061",
-                          "displayName": "João Neves",
-                          "shortName": "J. Neves",
-                          "fullName": "João Neves",
-                          "jersey": "15",
+                          "id": "22774",
+                          "displayName": "Cristiano Ronaldo",
+                          "shortName": "C. Ronaldo",
+                          "fullName": "Cristiano Ronaldo",
+                          "jersey": "7",
                           "active": true,
                           "team": {
                             "id": "482"
@@ -66065,12 +66065,12 @@
                                 "desktop",
                                 "athlete"
                               ],
-                              "href": "https://www.espn.com/soccer/player/_/id/355061/joao-neves",
+                              "href": "https://www.espn.com/soccer/player/_/id/22774/cristiano-ronaldo",
                               "isHidden": false
                             }
                           ],
                           "position": {
-                            "abbreviation": "M"
+                            "abbreviation": "F"
                           }
                         },
                         "team": {
@@ -66161,7 +66161,7 @@
                     },
                     "close": {
                       "line": "u2.5",
-                      "odds": "-125",
+                      "odds": "-130",
                       "link": {
                         "rel": [
                           "under",
@@ -66251,7 +66251,7 @@
                       "odds": "+250"
                     },
                     "close": {
-                      "odds": "+285",
+                      "odds": "+300",
                       "link": {
                         "rel": [
                           "home",
@@ -66276,7 +66276,7 @@
                       "odds": "+115"
                     },
                     "close": {
-                      "odds": "-105",
+                      "odds": "-110",
                       "link": {
                         "rel": [
                           "away",
@@ -66322,7 +66322,7 @@
                     }
                   }
                 },
-                "details": "POR -105"
+                "details": "POR -110"
               }
             ],
             "wasSuspended": false,
@@ -67047,7 +67047,7 @@
                     },
                     "close": {
                       "line": "+0.5",
-                      "odds": "+100",
+                      "odds": "+105",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -67077,7 +67077,7 @@
                       "odds": "+155"
                     },
                     "close": {
-                      "odds": "-120",
+                      "odds": "-125",
                       "link": {
                         "rel": [
                           "home",
@@ -67102,7 +67102,7 @@
                       "odds": "+185"
                     },
                     "close": {
-                      "odds": "+300",
+                      "odds": "+310",
                       "link": {
                         "rel": [
                           "away",
@@ -67148,7 +67148,7 @@
                     }
                   }
                 },
-                "details": "COD -120"
+                "details": "COD -125"
               }
             ],
             "wasSuspended": false,
@@ -67260,8 +67260,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $517",
-                "numberAvailable": 685,
+                "summary": "Tickets as low as $506",
+                "numberAvailable": 719,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-geha-field-at-arrowhead-stadium-6-27-2026--sports-soccer/production/5080707?wsUser=717"
@@ -68104,7 +68104,7 @@
             "tickets": [
               {
                 "summary": "Tickets as low as $1,986",
-                "numberAvailable": 634,
+                "numberAvailable": 653,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-att-stadium-6-27-2026--sports-soccer/production/5080712?wsUser=717"
