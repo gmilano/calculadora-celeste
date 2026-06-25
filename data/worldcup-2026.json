@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-25T12:47:53.338Z",
+  "fetchedAt": "2026-06-25T15:51:59.883Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -53612,8 +53612,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $497",
-                "numberAvailable": 216,
+                "summary": "Tickets as low as $606",
+                "numberAvailable": 126,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-lincoln-financial-field-6-25-2026--sports-soccer/production/5080643?wsUser=717"
@@ -54142,7 +54142,7 @@
                   ]
                 },
                 "drawOdds": {
-                  "moneyLine": 700,
+                  "moneyLine": 650,
                   "link": {
                     "language": "en-US",
                     "rel": [
@@ -54197,7 +54197,7 @@
                     },
                     "close": {
                       "line": "u3.5",
-                      "odds": "-135",
+                      "odds": "-140",
                       "link": {
                         "rel": [
                           "under",
@@ -54229,7 +54229,7 @@
                     },
                     "close": {
                       "line": "+2.5",
-                      "odds": "-155",
+                      "odds": "-145",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -54257,7 +54257,7 @@
                     },
                     "close": {
                       "line": "-2.5",
-                      "odds": "+120",
+                      "odds": "+115",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -54287,7 +54287,7 @@
                       "odds": "+800"
                     },
                     "close": {
-                      "odds": "+1500",
+                      "odds": "+1400",
                       "link": {
                         "rel": [
                           "home",
@@ -54312,7 +54312,7 @@
                       "odds": "-300"
                     },
                     "close": {
-                      "odds": "-575",
+                      "odds": "-525",
                       "link": {
                         "rel": [
                           "away",
@@ -54337,7 +54337,7 @@
                       "odds": "+425"
                     },
                     "close": {
-                      "odds": "+700",
+                      "odds": "+650",
                       "link": {
                         "rel": [
                           "draw",
@@ -54358,7 +54358,7 @@
                     }
                   }
                 },
-                "details": "CIV -575"
+                "details": "CIV -525"
               }
             ],
             "wasSuspended": false,
@@ -54470,8 +54470,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $1,000",
-                "numberAvailable": 484,
+                "summary": "Tickets as low as $1,077",
+                "numberAvailable": 310,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-metlife-stadium-6-25-2026--sports-soccer/production/5080645?wsUser=717"
@@ -55012,7 +55012,7 @@
                     },
                     "close": {
                       "line": "o2.5",
-                      "odds": "-155",
+                      "odds": "-165",
                       "link": {
                         "rel": [
                           "over",
@@ -55040,7 +55040,7 @@
                     },
                     "close": {
                       "line": "u2.5",
-                      "odds": "+125",
+                      "odds": "+130",
                       "link": {
                         "rel": [
                           "under",
@@ -55072,7 +55072,7 @@
                     },
                     "close": {
                       "line": "+0.5",
-                      "odds": "+145",
+                      "odds": "+135",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -55100,7 +55100,7 @@
                     },
                     "close": {
                       "line": "-0.5",
-                      "odds": "-185",
+                      "odds": "-175",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -55155,7 +55155,7 @@
                       "odds": "-150"
                     },
                     "close": {
-                      "odds": "-175",
+                      "odds": "-165",
                       "link": {
                         "rel": [
                           "away",
@@ -55201,7 +55201,7 @@
                     }
                   }
                 },
-                "details": "GER -175"
+                "details": "GER -165"
               }
             ],
             "wasSuspended": false,
@@ -55313,8 +55313,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $817",
-                "numberAvailable": 440,
+                "summary": "Tickets as low as $905",
+                "numberAvailable": 406,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-att-stadium-6-25-2026--sports-soccer/production/5080649?wsUser=717"
@@ -56156,8 +56156,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $472",
-                "numberAvailable": 452,
+                "summary": "Tickets as low as $437",
+                "numberAvailable": 416,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-geha-field-at-arrowhead-stadium-6-25-2026--sports-soccer/production/5080653?wsUser=717"
@@ -56675,7 +56675,7 @@
                   "priority": 1
                 },
                 "drawOdds": {
-                  "moneyLine": 1000,
+                  "moneyLine": 950,
                   "link": {
                     "language": "en-US",
                     "rel": [
@@ -56702,7 +56702,7 @@
                     },
                     "close": {
                       "line": "o3.5",
-                      "odds": "-105",
+                      "odds": "+100",
                       "link": {
                         "rel": [
                           "over",
@@ -56730,7 +56730,7 @@
                     },
                     "close": {
                       "line": "u3.5",
-                      "odds": "-120",
+                      "odds": "-125",
                       "link": {
                         "rel": [
                           "under",
@@ -56762,7 +56762,7 @@
                     },
                     "close": {
                       "line": "+2.5",
-                      "odds": "+105",
+                      "odds": "-120",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -56790,7 +56790,7 @@
                     },
                     "close": {
                       "line": "-2.5",
-                      "odds": "-130",
+                      "odds": "-105",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -56820,7 +56820,7 @@
                       "odds": "+500"
                     },
                     "close": {
-                      "odds": "+2500",
+                      "odds": "+2200",
                       "link": {
                         "rel": [
                           "home",
@@ -56845,7 +56845,7 @@
                       "odds": "-175"
                     },
                     "close": {
-                      "odds": "-1100",
+                      "odds": "-900",
                       "link": {
                         "rel": [
                           "away",
@@ -56870,7 +56870,7 @@
                       "odds": "+320"
                     },
                     "close": {
-                      "odds": "+1000",
+                      "odds": "+950",
                       "link": {
                         "rel": [
                           "draw",
@@ -56891,7 +56891,7 @@
                     }
                   }
                 },
-                "details": "NED -1100"
+                "details": "NED -900"
               }
             ],
             "wasSuspended": false,
@@ -57003,8 +57003,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $770",
-                "numberAvailable": 256,
+                "summary": "Tickets as low as $703",
+                "numberAvailable": 243,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-levis-stadium-6-25-2026--sports-soccer/production/5080661?wsUser=717"
@@ -57545,7 +57545,7 @@
                     },
                     "close": {
                       "line": "o1.5",
-                      "odds": "-155",
+                      "odds": "-145",
                       "link": {
                         "rel": [
                           "over",
@@ -57573,7 +57573,7 @@
                     },
                     "close": {
                       "line": "u1.5",
-                      "odds": "+125",
+                      "odds": "+120",
                       "link": {
                         "rel": [
                           "under",
@@ -57605,7 +57605,7 @@
                     },
                     "close": {
                       "line": "-0.5",
-                      "odds": "+160",
+                      "odds": "+150",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -57633,7 +57633,7 @@
                     },
                     "close": {
                       "line": "+0.5",
-                      "odds": "-200",
+                      "odds": "-195",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -57663,7 +57663,7 @@
                       "odds": "+120"
                     },
                     "close": {
-                      "odds": "+170",
+                      "odds": "+165",
                       "link": {
                         "rel": [
                           "home",
@@ -57688,7 +57688,7 @@
                       "odds": "+255"
                     },
                     "close": {
-                      "odds": "+320",
+                      "odds": "+340",
                       "link": {
                         "rel": [
                           "away",
@@ -57734,7 +57734,7 @@
                     }
                   }
                 },
-                "details": "PAR +170"
+                "details": "PAR +165"
               }
             ],
             "wasSuspended": false,
@@ -57846,8 +57846,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $1,238",
-                "numberAvailable": 291,
+                "summary": "Tickets as low as $1,205",
+                "numberAvailable": 284,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-sofi-stadium-6-25-2026--sports-soccer/production/5080656?wsUser=717"
@@ -58361,7 +58361,7 @@
                   "priority": 1
                 },
                 "drawOdds": {
-                  "moneyLine": 300,
+                  "moneyLine": 310,
                   "link": {
                     "language": "en-US",
                     "rel": [
@@ -58388,7 +58388,7 @@
                     },
                     "close": {
                       "line": "o2.5",
-                      "odds": "-155",
+                      "odds": "-165",
                       "link": {
                         "rel": [
                           "over",
@@ -58416,7 +58416,7 @@
                     },
                     "close": {
                       "line": "u2.5",
-                      "odds": "+125",
+                      "odds": "+135",
                       "link": {
                         "rel": [
                           "under",
@@ -58448,7 +58448,7 @@
                     },
                     "close": {
                       "line": "+0.5",
-                      "odds": "-110",
+                      "odds": "+100",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -58476,7 +58476,7 @@
                     },
                     "close": {
                       "line": "-0.5",
-                      "odds": "-115",
+                      "odds": "-125",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -58506,7 +58506,7 @@
                       "odds": "+180"
                     },
                     "close": {
-                      "odds": "+270",
+                      "odds": "+285",
                       "link": {
                         "rel": [
                           "home",
@@ -58531,7 +58531,7 @@
                       "odds": "+150"
                     },
                     "close": {
-                      "odds": "-110",
+                      "odds": "-115",
                       "link": {
                         "rel": [
                           "away",
@@ -58556,7 +58556,7 @@
                       "odds": "+245"
                     },
                     "close": {
-                      "odds": "+300",
+                      "odds": "+310",
                       "link": {
                         "rel": [
                           "draw",
@@ -58577,7 +58577,7 @@
                     }
                   }
                 },
-                "details": "USA -110"
+                "details": "USA -115"
               }
             ],
             "wasSuspended": false,
@@ -58689,8 +58689,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $1,622",
-                "numberAvailable": 525,
+                "summary": "Tickets as low as $1,510",
+                "numberAvailable": 548,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-gillette-stadium-6-26-2026--sports-soccer/production/5080674?wsUser=717"
@@ -59231,7 +59231,7 @@
                     },
                     "close": {
                       "line": "o2.5",
-                      "odds": "-150",
+                      "odds": "-155",
                       "link": {
                         "rel": [
                           "over",
@@ -59259,7 +59259,7 @@
                     },
                     "close": {
                       "line": "u2.5",
-                      "odds": "+120",
+                      "odds": "+125",
                       "link": {
                         "rel": [
                           "under",
@@ -60060,7 +60060,7 @@
                     },
                     "close": {
                       "line": "o3.5",
-                      "odds": "+135",
+                      "odds": "+130",
                       "link": {
                         "rel": [
                           "over",
@@ -60949,7 +60949,7 @@
                     },
                     "close": {
                       "line": "-0.5",
-                      "odds": "+145",
+                      "odds": "+155",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -60977,7 +60977,7 @@
                     },
                     "close": {
                       "line": "+0.5",
-                      "odds": "-185",
+                      "odds": "-200",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -61007,7 +61007,7 @@
                       "odds": "+195"
                     },
                     "close": {
-                      "odds": "+155",
+                      "odds": "+165",
                       "link": {
                         "rel": [
                           "home",
@@ -61032,7 +61032,7 @@
                       "odds": "+130"
                     },
                     "close": {
-                      "odds": "+185",
+                      "odds": "+170",
                       "link": {
                         "rel": [
                           "away",
@@ -61078,7 +61078,7 @@
                     }
                   }
                 },
-                "details": "CPV +155"
+                "details": "CPV +165"
               }
             ],
             "wasSuspended": false,
@@ -62019,8 +62019,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $656",
-                "numberAvailable": 901,
+                "summary": "Tickets as low as $545",
+                "numberAvailable": 924,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-lumen-field-6-26-2026--sports-soccer/production/5080680?wsUser=717"
@@ -62862,8 +62862,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $545",
-                "numberAvailable": 568,
+                "summary": "Tickets as low as $552",
+                "numberAvailable": 580,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-bc-place-stadium-6-26-2026--sports-soccer/production/5080683?wsUser=717"
@@ -63404,7 +63404,7 @@
                     },
                     "close": {
                       "line": "o3.5",
-                      "odds": "+100",
+                      "odds": "+105",
                       "link": {
                         "rel": [
                           "over",
@@ -63432,7 +63432,7 @@
                     },
                     "close": {
                       "line": "u3.5",
-                      "odds": "-125",
+                      "odds": "-135",
                       "link": {
                         "rel": [
                           "under",
@@ -63464,7 +63464,7 @@
                     },
                     "close": {
                       "line": "+2.5",
-                      "odds": "-140",
+                      "odds": "-150",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -63492,7 +63492,7 @@
                     },
                     "close": {
                       "line": "-2.5",
-                      "odds": "+110",
+                      "odds": "+115",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -63705,8 +63705,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $1,186",
-                "numberAvailable": 315,
+                "summary": "Tickets as low as $1,158",
+                "numberAvailable": 333,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-lincoln-financial-field-6-27-2026--sports-soccer/production/5080700?wsUser=717"
@@ -64548,8 +64548,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $1,271",
-                "numberAvailable": 828,
+                "summary": "Tickets as low as $1,218",
+                "numberAvailable": 829,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-metlife-stadium-6-27-2026--sports-soccer/production/5080698?wsUser=717"
@@ -65391,8 +65391,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $3,297",
-                "numberAvailable": 962,
+                "summary": "Tickets as low as $3,516",
+                "numberAvailable": 999,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-hard-rock-stadium-6-27-2026--sports-soccer/production/5080718?wsUser=717"
@@ -67060,8 +67060,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $399",
-                "numberAvailable": 799,
+                "summary": "Tickets as low as $474",
+                "numberAvailable": 820,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-geha-field-at-arrowhead-stadium-6-27-2026--sports-soccer/production/5080707?wsUser=717"
@@ -67602,7 +67602,7 @@
                     },
                     "close": {
                       "line": "o1.5",
-                      "odds": "-195",
+                      "odds": "-200",
                       "link": {
                         "rel": [
                           "over",
@@ -67903,8 +67903,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $2,105",
-                "numberAvailable": 659,
+                "summary": "Tickets as low as $1,933",
+                "numberAvailable": 666,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-att-stadium-6-27-2026--sports-soccer/production/5080712?wsUser=717"
