@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-25T04:25:50.574Z",
+  "fetchedAt": "2026-06-25T07:11:17.909Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -87,8 +87,8 @@
                   "description": "Number of Games Played",
                   "abbreviation": "GP",
                   "type": "gamesplayed",
-                  "value": 2,
-                  "displayValue": "2"
+                  "value": 3,
+                  "displayValue": "3"
                 },
                 {
                   "name": "losses",
@@ -107,8 +107,8 @@
                   "description": "Goal Difference",
                   "abbreviation": "GD",
                   "type": "pointdifferential",
-                  "value": 3,
-                  "displayValue": "+3"
+                  "value": 6,
+                  "displayValue": "+6"
                 },
                 {
                   "name": "points",
@@ -117,30 +117,30 @@
                   "description": "Points",
                   "abbreviation": "P",
                   "type": "points",
+                  "value": 9,
+                  "displayValue": "9"
+                },
+                {
+                  "name": "pointsAgainst",
+                  "displayName": "Goals Against",
+                  "shortDisplayName": "A",
+                  "description": "Goals Against",
+                  "abbreviation": "A",
+                  "type": "pointsagainst",
+                  "value": 0,
+                  "displayValue": "0"
+                },
+                {
+                  "name": "pointsFor",
+                  "displayName": "Goals For",
+                  "shortDisplayName": "F",
+                  "description": "Goals For",
+                  "abbreviation": "F",
+                  "type": "pointsfor",
                   "value": 6,
                   "displayValue": "6"
                 },
                 {
-                  "name": "pointsAgainst",
-                  "displayName": "Goals Against",
-                  "shortDisplayName": "A",
-                  "description": "Goals Against",
-                  "abbreviation": "A",
-                  "type": "pointsagainst",
-                  "value": 0,
-                  "displayValue": "0"
-                },
-                {
-                  "name": "pointsFor",
-                  "displayName": "Goals For",
-                  "shortDisplayName": "F",
-                  "description": "Goals For",
-                  "abbreviation": "F",
-                  "type": "pointsfor",
-                  "value": 3,
-                  "displayValue": "3"
-                },
-                {
                   "name": "ties",
                   "displayName": "Draws",
                   "shortDisplayName": "D",
@@ -157,8 +157,8 @@
                   "description": "Wins",
                   "abbreviation": "W",
                   "type": "wins",
-                  "value": 2,
-                  "displayValue": "2"
+                  "value": 3,
+                  "displayValue": "3"
                 },
                 {
                   "name": "advanced",
@@ -218,386 +218,8 @@
                   "shortDisplayName": "OVER",
                   "description": "Overall Record",
                   "type": "total",
-                  "summary": "2-0-0",
-                  "displayValue": "2-0-0"
-                }
-              ]
-            },
-            {
-              "team": {
-                "id": "451",
-                "uid": "s:600~t:451",
-                "location": "South Korea",
-                "name": "South Korea",
-                "abbreviation": "KOR",
-                "displayName": "South Korea",
-                "shortDisplayName": "South Korea",
-                "isActive": true,
-                "logos": [
-                  {
-                    "href": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
-                    "width": 500,
-                    "height": 500,
-                    "alt": "",
-                    "rel": [
-                      "full",
-                      "default"
-                    ],
-                    "lastUpdated": "2018-06-05T12:06Z"
-                  }
-                ],
-                "links": [
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "desktop",
-                      "team"
-                    ],
-                    "href": "https://www.espn.com/soccer/team/_/id/451/south-korea",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  }
-                ],
-                "isNational": true
-              },
-              "note": {
-                "color": "#81D6AC",
-                "description": "Advance to Round of 32",
-                "rank": 2
-              },
-              "stats": [
-                {
-                  "name": "gamesPlayed",
-                  "displayName": "Games Played",
-                  "shortDisplayName": "GP",
-                  "description": "Number of Games Played",
-                  "abbreviation": "GP",
-                  "type": "gamesplayed",
-                  "value": 2,
-                  "displayValue": "2"
-                },
-                {
-                  "name": "losses",
-                  "displayName": "Losses",
-                  "shortDisplayName": "L",
-                  "description": "Losses",
-                  "abbreviation": "L",
-                  "type": "losses",
-                  "value": 1,
-                  "displayValue": "1"
-                },
-                {
-                  "name": "pointDifferential",
-                  "displayName": "Goal Difference",
-                  "shortDisplayName": "GD",
-                  "description": "Goal Difference",
-                  "abbreviation": "GD",
-                  "type": "pointdifferential",
-                  "value": 0,
-                  "displayValue": "0"
-                },
-                {
-                  "name": "points",
-                  "displayName": "Points",
-                  "shortDisplayName": "P",
-                  "description": "Points",
-                  "abbreviation": "P",
-                  "type": "points",
-                  "value": 3,
-                  "displayValue": "3"
-                },
-                {
-                  "name": "pointsAgainst",
-                  "displayName": "Goals Against",
-                  "shortDisplayName": "A",
-                  "description": "Goals Against",
-                  "abbreviation": "A",
-                  "type": "pointsagainst",
-                  "value": 2,
-                  "displayValue": "2"
-                },
-                {
-                  "name": "pointsFor",
-                  "displayName": "Goals For",
-                  "shortDisplayName": "F",
-                  "description": "Goals For",
-                  "abbreviation": "F",
-                  "type": "pointsfor",
-                  "value": 2,
-                  "displayValue": "2"
-                },
-                {
-                  "name": "ties",
-                  "displayName": "Draws",
-                  "shortDisplayName": "D",
-                  "description": "Draws",
-                  "abbreviation": "D",
-                  "type": "ties",
-                  "value": 0,
-                  "displayValue": "0"
-                },
-                {
-                  "name": "wins",
-                  "displayName": "Wins",
-                  "shortDisplayName": "W",
-                  "description": "Wins",
-                  "abbreviation": "W",
-                  "type": "wins",
-                  "value": 1,
-                  "displayValue": "1"
-                },
-                {
-                  "name": "advanced",
-                  "displayName": "Advanced",
-                  "shortDisplayName": "ADV",
-                  "description": "Advanced",
-                  "abbreviation": "ADV",
-                  "type": "advanced",
-                  "value": 0,
-                  "displayValue": "0"
-                },
-                {
-                  "name": "deductions",
-                  "displayName": "Point Deductions",
-                  "shortDisplayName": "Deductions",
-                  "description": "Point Deductions",
-                  "abbreviation": "PD",
-                  "type": "deductions",
-                  "value": 0,
-                  "displayValue": ""
-                },
-                {
-                  "name": "ppg",
-                  "displayName": "Points Per Game",
-                  "shortDisplayName": "PPG",
-                  "description": "Points Per Game",
-                  "abbreviation": "PPG",
-                  "type": "ppg",
-                  "value": 0,
-                  "displayValue": "0"
-                },
-                {
-                  "name": "rank",
-                  "displayName": "Rank",
-                  "shortDisplayName": "Rank",
-                  "description": "Rank",
-                  "abbreviation": "R",
-                  "type": "rank",
-                  "value": 2,
-                  "displayValue": "2"
-                },
-                {
-                  "name": "rankChange",
-                  "displayName": "Rank Change",
-                  "shortDisplayName": "Rank Change",
-                  "description": "Rank Change",
-                  "abbreviation": "RC",
-                  "type": "rankchange",
-                  "value": 0,
-                  "displayValue": "0"
-                },
-                {
-                  "id": "0",
-                  "name": "overall",
-                  "abbreviation": "Total",
-                  "displayName": "Overall",
-                  "shortDisplayName": "OVER",
-                  "description": "Overall Record",
-                  "type": "total",
-                  "summary": "1-0-1",
-                  "displayValue": "1-0-1"
-                }
-              ]
-            },
-            {
-              "team": {
-                "id": "450",
-                "uid": "s:600~t:450",
-                "location": "Czechia",
-                "name": "Czechia",
-                "abbreviation": "CZE",
-                "displayName": "Czechia",
-                "shortDisplayName": "Czechia",
-                "isActive": true,
-                "logos": [
-                  {
-                    "href": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
-                    "width": 500,
-                    "height": 500,
-                    "alt": "",
-                    "rel": [
-                      "full",
-                      "default"
-                    ],
-                    "lastUpdated": "2023-10-25T16:20Z"
-                  }
-                ],
-                "links": [
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "desktop",
-                      "team"
-                    ],
-                    "href": "https://www.espn.com/soccer/team/_/id/450/czechia",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  }
-                ],
-                "isNational": true
-              },
-              "note": {
-                "color": "#B5E7CE",
-                "description": "Best 8 advance",
-                "rank": 3
-              },
-              "stats": [
-                {
-                  "name": "gamesPlayed",
-                  "displayName": "Games Played",
-                  "shortDisplayName": "GP",
-                  "description": "Number of Games Played",
-                  "abbreviation": "GP",
-                  "type": "gamesplayed",
-                  "value": 2,
-                  "displayValue": "2"
-                },
-                {
-                  "name": "losses",
-                  "displayName": "Losses",
-                  "shortDisplayName": "L",
-                  "description": "Losses",
-                  "abbreviation": "L",
-                  "type": "losses",
-                  "value": 1,
-                  "displayValue": "1"
-                },
-                {
-                  "name": "pointDifferential",
-                  "displayName": "Goal Difference",
-                  "shortDisplayName": "GD",
-                  "description": "Goal Difference",
-                  "abbreviation": "GD",
-                  "type": "pointdifferential",
-                  "value": -1,
-                  "displayValue": "-1"
-                },
-                {
-                  "name": "points",
-                  "displayName": "Points",
-                  "shortDisplayName": "P",
-                  "description": "Points",
-                  "abbreviation": "P",
-                  "type": "points",
-                  "value": 1,
-                  "displayValue": "1"
-                },
-                {
-                  "name": "pointsAgainst",
-                  "displayName": "Goals Against",
-                  "shortDisplayName": "A",
-                  "description": "Goals Against",
-                  "abbreviation": "A",
-                  "type": "pointsagainst",
-                  "value": 3,
-                  "displayValue": "3"
-                },
-                {
-                  "name": "pointsFor",
-                  "displayName": "Goals For",
-                  "shortDisplayName": "F",
-                  "description": "Goals For",
-                  "abbreviation": "F",
-                  "type": "pointsfor",
-                  "value": 2,
-                  "displayValue": "2"
-                },
-                {
-                  "name": "ties",
-                  "displayName": "Draws",
-                  "shortDisplayName": "D",
-                  "description": "Draws",
-                  "abbreviation": "D",
-                  "type": "ties",
-                  "value": 1,
-                  "displayValue": "1"
-                },
-                {
-                  "name": "wins",
-                  "displayName": "Wins",
-                  "shortDisplayName": "W",
-                  "description": "Wins",
-                  "abbreviation": "W",
-                  "type": "wins",
-                  "value": 0,
-                  "displayValue": "0"
-                },
-                {
-                  "name": "advanced",
-                  "displayName": "Advanced",
-                  "shortDisplayName": "ADV",
-                  "description": "Advanced",
-                  "abbreviation": "ADV",
-                  "type": "advanced",
-                  "value": 0,
-                  "displayValue": "0"
-                },
-                {
-                  "name": "deductions",
-                  "displayName": "Point Deductions",
-                  "shortDisplayName": "Deductions",
-                  "description": "Point Deductions",
-                  "abbreviation": "PD",
-                  "type": "deductions",
-                  "value": 0,
-                  "displayValue": ""
-                },
-                {
-                  "name": "ppg",
-                  "displayName": "Points Per Game",
-                  "shortDisplayName": "PPG",
-                  "description": "Points Per Game",
-                  "abbreviation": "PPG",
-                  "type": "ppg",
-                  "value": 0,
-                  "displayValue": "0"
-                },
-                {
-                  "name": "rank",
-                  "displayName": "Rank",
-                  "shortDisplayName": "Rank",
-                  "description": "Rank",
-                  "abbreviation": "R",
-                  "type": "rank",
-                  "value": 3,
-                  "displayValue": "3"
-                },
-                {
-                  "name": "rankChange",
-                  "displayName": "Rank Change",
-                  "shortDisplayName": "Rank Change",
-                  "description": "Rank Change",
-                  "abbreviation": "RC",
-                  "type": "rankchange",
-                  "value": 0,
-                  "displayValue": "0"
-                },
-                {
-                  "id": "0",
-                  "name": "overall",
-                  "abbreviation": "Total",
-                  "displayName": "Overall",
-                  "shortDisplayName": "OVER",
-                  "description": "Overall Record",
-                  "type": "total",
-                  "summary": "0-1-1",
-                  "displayValue": "0-1-1"
+                  "summary": "3-0-0",
+                  "displayValue": "3-0-0"
                 }
               ]
             },
@@ -642,9 +264,9 @@
                 "isNational": true
               },
               "note": {
-                "color": "#FF7F84",
-                "description": "Eliminated",
-                "rank": 4
+                "color": "#81D6AC",
+                "description": "Advance to Round of 32",
+                "rank": 2
               },
               "stats": [
                 {
@@ -654,8 +276,8 @@
                   "description": "Number of Games Played",
                   "abbreviation": "GP",
                   "type": "gamesplayed",
-                  "value": 2,
-                  "displayValue": "2"
+                  "value": 3,
+                  "displayValue": "3"
                 },
                 {
                   "name": "losses",
@@ -674,8 +296,8 @@
                   "description": "Goal Difference",
                   "abbreviation": "GD",
                   "type": "pointdifferential",
-                  "value": -2,
-                  "displayValue": "-2"
+                  "value": -1,
+                  "displayValue": "-1"
                 },
                 {
                   "name": "points",
@@ -684,8 +306,8 @@
                   "description": "Points",
                   "abbreviation": "P",
                   "type": "points",
-                  "value": 1,
-                  "displayValue": "1"
+                  "value": 4,
+                  "displayValue": "4"
                 },
                 {
                   "name": "pointsAgainst",
@@ -704,8 +326,386 @@
                   "description": "Goals For",
                   "abbreviation": "F",
                   "type": "pointsfor",
+                  "value": 2,
+                  "displayValue": "2"
+                },
+                {
+                  "name": "ties",
+                  "displayName": "Draws",
+                  "shortDisplayName": "D",
+                  "description": "Draws",
+                  "abbreviation": "D",
+                  "type": "ties",
                   "value": 1,
                   "displayValue": "1"
+                },
+                {
+                  "name": "wins",
+                  "displayName": "Wins",
+                  "shortDisplayName": "W",
+                  "description": "Wins",
+                  "abbreviation": "W",
+                  "type": "wins",
+                  "value": 1,
+                  "displayValue": "1"
+                },
+                {
+                  "name": "advanced",
+                  "displayName": "Advanced",
+                  "shortDisplayName": "ADV",
+                  "description": "Advanced",
+                  "abbreviation": "ADV",
+                  "type": "advanced",
+                  "value": 1,
+                  "displayValue": "1"
+                },
+                {
+                  "name": "deductions",
+                  "displayName": "Point Deductions",
+                  "shortDisplayName": "Deductions",
+                  "description": "Point Deductions",
+                  "abbreviation": "PD",
+                  "type": "deductions",
+                  "value": 0,
+                  "displayValue": ""
+                },
+                {
+                  "name": "ppg",
+                  "displayName": "Points Per Game",
+                  "shortDisplayName": "PPG",
+                  "description": "Points Per Game",
+                  "abbreviation": "PPG",
+                  "type": "ppg",
+                  "value": 0,
+                  "displayValue": "0"
+                },
+                {
+                  "name": "rank",
+                  "displayName": "Rank",
+                  "shortDisplayName": "Rank",
+                  "description": "Rank",
+                  "abbreviation": "R",
+                  "type": "rank",
+                  "value": 2,
+                  "displayValue": "2"
+                },
+                {
+                  "name": "rankChange",
+                  "displayName": "Rank Change",
+                  "shortDisplayName": "Rank Change",
+                  "description": "Rank Change",
+                  "abbreviation": "RC",
+                  "type": "rankchange",
+                  "value": 0,
+                  "displayValue": "0"
+                },
+                {
+                  "id": "0",
+                  "name": "overall",
+                  "abbreviation": "Total",
+                  "displayName": "Overall",
+                  "shortDisplayName": "OVER",
+                  "description": "Overall Record",
+                  "type": "total",
+                  "summary": "1-1-1",
+                  "displayValue": "1-1-1"
+                }
+              ]
+            },
+            {
+              "team": {
+                "id": "451",
+                "uid": "s:600~t:451",
+                "location": "South Korea",
+                "name": "South Korea",
+                "abbreviation": "KOR",
+                "displayName": "South Korea",
+                "shortDisplayName": "South Korea",
+                "isActive": true,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/countries/500/kors.png",
+                    "width": 500,
+                    "height": 500,
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "lastUpdated": "2018-06-05T12:06Z"
+                  }
+                ],
+                "links": [
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/_/id/451/south-korea",
+                    "text": "Clubhouse",
+                    "shortText": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  }
+                ],
+                "isNational": true
+              },
+              "note": {
+                "color": "#B5E7CE",
+                "description": "Best 8 advance",
+                "rank": 3
+              },
+              "stats": [
+                {
+                  "name": "gamesPlayed",
+                  "displayName": "Games Played",
+                  "shortDisplayName": "GP",
+                  "description": "Number of Games Played",
+                  "abbreviation": "GP",
+                  "type": "gamesplayed",
+                  "value": 3,
+                  "displayValue": "3"
+                },
+                {
+                  "name": "losses",
+                  "displayName": "Losses",
+                  "shortDisplayName": "L",
+                  "description": "Losses",
+                  "abbreviation": "L",
+                  "type": "losses",
+                  "value": 2,
+                  "displayValue": "2"
+                },
+                {
+                  "name": "pointDifferential",
+                  "displayName": "Goal Difference",
+                  "shortDisplayName": "GD",
+                  "description": "Goal Difference",
+                  "abbreviation": "GD",
+                  "type": "pointdifferential",
+                  "value": -1,
+                  "displayValue": "-1"
+                },
+                {
+                  "name": "points",
+                  "displayName": "Points",
+                  "shortDisplayName": "P",
+                  "description": "Points",
+                  "abbreviation": "P",
+                  "type": "points",
+                  "value": 3,
+                  "displayValue": "3"
+                },
+                {
+                  "name": "pointsAgainst",
+                  "displayName": "Goals Against",
+                  "shortDisplayName": "A",
+                  "description": "Goals Against",
+                  "abbreviation": "A",
+                  "type": "pointsagainst",
+                  "value": 3,
+                  "displayValue": "3"
+                },
+                {
+                  "name": "pointsFor",
+                  "displayName": "Goals For",
+                  "shortDisplayName": "F",
+                  "description": "Goals For",
+                  "abbreviation": "F",
+                  "type": "pointsfor",
+                  "value": 2,
+                  "displayValue": "2"
+                },
+                {
+                  "name": "ties",
+                  "displayName": "Draws",
+                  "shortDisplayName": "D",
+                  "description": "Draws",
+                  "abbreviation": "D",
+                  "type": "ties",
+                  "value": 0,
+                  "displayValue": "0"
+                },
+                {
+                  "name": "wins",
+                  "displayName": "Wins",
+                  "shortDisplayName": "W",
+                  "description": "Wins",
+                  "abbreviation": "W",
+                  "type": "wins",
+                  "value": 1,
+                  "displayValue": "1"
+                },
+                {
+                  "name": "advanced",
+                  "displayName": "Advanced",
+                  "shortDisplayName": "ADV",
+                  "description": "Advanced",
+                  "abbreviation": "ADV",
+                  "type": "advanced",
+                  "value": 0,
+                  "displayValue": "0"
+                },
+                {
+                  "name": "deductions",
+                  "displayName": "Point Deductions",
+                  "shortDisplayName": "Deductions",
+                  "description": "Point Deductions",
+                  "abbreviation": "PD",
+                  "type": "deductions",
+                  "value": 0,
+                  "displayValue": ""
+                },
+                {
+                  "name": "ppg",
+                  "displayName": "Points Per Game",
+                  "shortDisplayName": "PPG",
+                  "description": "Points Per Game",
+                  "abbreviation": "PPG",
+                  "type": "ppg",
+                  "value": 0,
+                  "displayValue": "0"
+                },
+                {
+                  "name": "rank",
+                  "displayName": "Rank",
+                  "shortDisplayName": "Rank",
+                  "description": "Rank",
+                  "abbreviation": "R",
+                  "type": "rank",
+                  "value": 3,
+                  "displayValue": "3"
+                },
+                {
+                  "name": "rankChange",
+                  "displayName": "Rank Change",
+                  "shortDisplayName": "Rank Change",
+                  "description": "Rank Change",
+                  "abbreviation": "RC",
+                  "type": "rankchange",
+                  "value": 0,
+                  "displayValue": "0"
+                },
+                {
+                  "id": "0",
+                  "name": "overall",
+                  "abbreviation": "Total",
+                  "displayName": "Overall",
+                  "shortDisplayName": "OVER",
+                  "description": "Overall Record",
+                  "type": "total",
+                  "summary": "1-0-2",
+                  "displayValue": "1-0-2"
+                }
+              ]
+            },
+            {
+              "team": {
+                "id": "450",
+                "uid": "s:600~t:450",
+                "location": "Czechia",
+                "name": "Czechia",
+                "abbreviation": "CZE",
+                "displayName": "Czechia",
+                "shortDisplayName": "Czechia",
+                "isActive": true,
+                "logos": [
+                  {
+                    "href": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
+                    "width": 500,
+                    "height": 500,
+                    "alt": "",
+                    "rel": [
+                      "full",
+                      "default"
+                    ],
+                    "lastUpdated": "2023-10-25T16:20Z"
+                  }
+                ],
+                "links": [
+                  {
+                    "language": "en-US",
+                    "rel": [
+                      "clubhouse",
+                      "desktop",
+                      "team"
+                    ],
+                    "href": "https://www.espn.com/soccer/team/_/id/450/czechia",
+                    "text": "Clubhouse",
+                    "shortText": "Clubhouse",
+                    "isExternal": false,
+                    "isPremium": false
+                  }
+                ],
+                "isNational": true
+              },
+              "note": {
+                "color": "#FF7F84",
+                "description": "Eliminated",
+                "rank": 4
+              },
+              "stats": [
+                {
+                  "name": "gamesPlayed",
+                  "displayName": "Games Played",
+                  "shortDisplayName": "GP",
+                  "description": "Number of Games Played",
+                  "abbreviation": "GP",
+                  "type": "gamesplayed",
+                  "value": 3,
+                  "displayValue": "3"
+                },
+                {
+                  "name": "losses",
+                  "displayName": "Losses",
+                  "shortDisplayName": "L",
+                  "description": "Losses",
+                  "abbreviation": "L",
+                  "type": "losses",
+                  "value": 2,
+                  "displayValue": "2"
+                },
+                {
+                  "name": "pointDifferential",
+                  "displayName": "Goal Difference",
+                  "shortDisplayName": "GD",
+                  "description": "Goal Difference",
+                  "abbreviation": "GD",
+                  "type": "pointdifferential",
+                  "value": -4,
+                  "displayValue": "-4"
+                },
+                {
+                  "name": "points",
+                  "displayName": "Points",
+                  "shortDisplayName": "P",
+                  "description": "Points",
+                  "abbreviation": "P",
+                  "type": "points",
+                  "value": 1,
+                  "displayValue": "1"
+                },
+                {
+                  "name": "pointsAgainst",
+                  "displayName": "Goals Against",
+                  "shortDisplayName": "A",
+                  "description": "Goals Against",
+                  "abbreviation": "A",
+                  "type": "pointsagainst",
+                  "value": 6,
+                  "displayValue": "6"
+                },
+                {
+                  "name": "pointsFor",
+                  "displayName": "Goals For",
+                  "shortDisplayName": "F",
+                  "description": "Goals For",
+                  "abbreviation": "F",
+                  "type": "pointsfor",
+                  "value": 2,
+                  "displayValue": "2"
                 },
                 {
                   "name": "ties",
@@ -785,8 +785,8 @@
                   "shortDisplayName": "OVER",
                   "description": "Overall Record",
                   "type": "total",
-                  "summary": "0-1-1",
-                  "displayValue": "0-1-1"
+                  "summary": "0-1-2",
+                  "displayValue": "0-1-2"
                 }
               ]
             }
@@ -1331,8 +1331,8 @@
                   "description": "Advanced",
                   "abbreviation": "ADV",
                   "type": "advanced",
-                  "value": 0,
-                  "displayValue": "0"
+                  "value": 1,
+                  "displayValue": "1"
                 },
                 {
                   "name": "deductions",
@@ -1659,8 +1659,8 @@
                   "description": "Number of Games Played",
                   "abbreviation": "GP",
                   "type": "gamesplayed",
-                  "value": 2,
-                  "displayValue": "2"
+                  "value": 3,
+                  "displayValue": "3"
                 },
                 {
                   "name": "losses",
@@ -1679,8 +1679,8 @@
                   "description": "Goal Difference",
                   "abbreviation": "GD",
                   "type": "pointdifferential",
-                  "value": 3,
-                  "displayValue": "+3"
+                  "value": 6,
+                  "displayValue": "+6"
                 },
                 {
                   "name": "points",
@@ -1689,8 +1689,8 @@
                   "description": "Points",
                   "abbreviation": "P",
                   "type": "points",
-                  "value": 4,
-                  "displayValue": "4"
+                  "value": 7,
+                  "displayValue": "7"
                 },
                 {
                   "name": "pointsAgainst",
@@ -1709,8 +1709,8 @@
                   "description": "Goals For",
                   "abbreviation": "F",
                   "type": "pointsfor",
-                  "value": 4,
-                  "displayValue": "4"
+                  "value": 7,
+                  "displayValue": "7"
                 },
                 {
                   "name": "ties",
@@ -1729,8 +1729,8 @@
                   "description": "Wins",
                   "abbreviation": "W",
                   "type": "wins",
-                  "value": 1,
-                  "displayValue": "1"
+                  "value": 2,
+                  "displayValue": "2"
                 },
                 {
                   "name": "advanced",
@@ -1739,8 +1739,8 @@
                   "description": "Advanced",
                   "abbreviation": "ADV",
                   "type": "advanced",
-                  "value": 0,
-                  "displayValue": "0"
+                  "value": 1,
+                  "displayValue": "1"
                 },
                 {
                   "name": "deductions",
@@ -1790,8 +1790,8 @@
                   "shortDisplayName": "OVER",
                   "description": "Overall Record",
                   "type": "total",
-                  "summary": "1-1-0",
-                  "displayValue": "1-1-0"
+                  "summary": "2-1-0",
+                  "displayValue": "2-1-0"
                 }
               ]
             },
@@ -1848,8 +1848,8 @@
                   "description": "Number of Games Played",
                   "abbreviation": "GP",
                   "type": "gamesplayed",
-                  "value": 2,
-                  "displayValue": "2"
+                  "value": 3,
+                  "displayValue": "3"
                 },
                 {
                   "name": "losses",
@@ -1868,8 +1868,8 @@
                   "description": "Goal Difference",
                   "abbreviation": "GD",
                   "type": "pointdifferential",
-                  "value": 1,
-                  "displayValue": "+1"
+                  "value": 3,
+                  "displayValue": "+3"
                 },
                 {
                   "name": "points",
@@ -1878,8 +1878,8 @@
                   "description": "Points",
                   "abbreviation": "P",
                   "type": "points",
-                  "value": 4,
-                  "displayValue": "4"
+                  "value": 7,
+                  "displayValue": "7"
                 },
                 {
                   "name": "pointsAgainst",
@@ -1888,8 +1888,8 @@
                   "description": "Goals Against",
                   "abbreviation": "A",
                   "type": "pointsagainst",
-                  "value": 1,
-                  "displayValue": "1"
+                  "value": 3,
+                  "displayValue": "3"
                 },
                 {
                   "name": "pointsFor",
@@ -1898,8 +1898,8 @@
                   "description": "Goals For",
                   "abbreviation": "F",
                   "type": "pointsfor",
-                  "value": 2,
-                  "displayValue": "2"
+                  "value": 6,
+                  "displayValue": "6"
                 },
                 {
                   "name": "ties",
@@ -1918,8 +1918,8 @@
                   "description": "Wins",
                   "abbreviation": "W",
                   "type": "wins",
-                  "value": 1,
-                  "displayValue": "1"
+                  "value": 2,
+                  "displayValue": "2"
                 },
                 {
                   "name": "advanced",
@@ -1928,8 +1928,8 @@
                   "description": "Advanced",
                   "abbreviation": "ADV",
                   "type": "advanced",
-                  "value": 0,
-                  "displayValue": "0"
+                  "value": 1,
+                  "displayValue": "1"
                 },
                 {
                   "name": "deductions",
@@ -1979,8 +1979,8 @@
                   "shortDisplayName": "OVER",
                   "description": "Overall Record",
                   "type": "total",
-                  "summary": "1-1-0",
-                  "displayValue": "1-1-0"
+                  "summary": "2-1-0",
+                  "displayValue": "2-1-0"
                 }
               ]
             },
@@ -2037,8 +2037,8 @@
                   "description": "Number of Games Played",
                   "abbreviation": "GP",
                   "type": "gamesplayed",
-                  "value": 2,
-                  "displayValue": "2"
+                  "value": 3,
+                  "displayValue": "3"
                 },
                 {
                   "name": "losses",
@@ -2047,8 +2047,8 @@
                   "description": "Losses",
                   "abbreviation": "L",
                   "type": "losses",
-                  "value": 1,
-                  "displayValue": "1"
+                  "value": 2,
+                  "displayValue": "2"
                 },
                 {
                   "name": "pointDifferential",
@@ -2057,8 +2057,8 @@
                   "description": "Goal Difference",
                   "abbreviation": "GD",
                   "type": "pointdifferential",
-                  "value": 0,
-                  "displayValue": "0"
+                  "value": -3,
+                  "displayValue": "-3"
                 },
                 {
                   "name": "points",
@@ -2077,8 +2077,8 @@
                   "description": "Goals Against",
                   "abbreviation": "A",
                   "type": "pointsagainst",
-                  "value": 1,
-                  "displayValue": "1"
+                  "value": 4,
+                  "displayValue": "4"
                 },
                 {
                   "name": "pointsFor",
@@ -2168,8 +2168,8 @@
                   "shortDisplayName": "OVER",
                   "description": "Overall Record",
                   "type": "total",
-                  "summary": "1-0-1",
-                  "displayValue": "1-0-1"
+                  "summary": "1-0-2",
+                  "displayValue": "1-0-2"
                 }
               ]
             },
@@ -2226,8 +2226,8 @@
                   "description": "Number of Games Played",
                   "abbreviation": "GP",
                   "type": "gamesplayed",
-                  "value": 2,
-                  "displayValue": "2"
+                  "value": 3,
+                  "displayValue": "3"
                 },
                 {
                   "name": "losses",
@@ -2236,8 +2236,8 @@
                   "description": "Losses",
                   "abbreviation": "L",
                   "type": "losses",
-                  "value": 2,
-                  "displayValue": "2"
+                  "value": 3,
+                  "displayValue": "3"
                 },
                 {
                   "name": "pointDifferential",
@@ -2246,8 +2246,8 @@
                   "description": "Goal Difference",
                   "abbreviation": "GD",
                   "type": "pointdifferential",
-                  "value": -4,
-                  "displayValue": "-4"
+                  "value": -6,
+                  "displayValue": "-6"
                 },
                 {
                   "name": "points",
@@ -2266,8 +2266,8 @@
                   "description": "Goals Against",
                   "abbreviation": "A",
                   "type": "pointsagainst",
-                  "value": 4,
-                  "displayValue": "4"
+                  "value": 8,
+                  "displayValue": "8"
                 },
                 {
                   "name": "pointsFor",
@@ -2276,8 +2276,8 @@
                   "description": "Goals For",
                   "abbreviation": "F",
                   "type": "pointsfor",
-                  "value": 0,
-                  "displayValue": "0"
+                  "value": 2,
+                  "displayValue": "2"
                 },
                 {
                   "name": "ties",
@@ -2357,8 +2357,8 @@
                   "shortDisplayName": "OVER",
                   "description": "Overall Record",
                   "type": "total",
-                  "summary": "0-0-2",
-                  "displayValue": "0-0-2"
+                  "summary": "0-0-3",
+                  "displayValue": "0-0-3"
                 }
               ]
             }
@@ -50394,7 +50394,7 @@
             "startDate": "2026-06-24T22:00Z",
             "attendance": 68239,
             "timeValid": true,
-            "recent": true,
+            "recent": false,
             "status": {
               "clock": 5400,
               "displayClock": "90'+9'",
@@ -51347,7 +51347,7 @@
             "startDate": "2026-06-24T22:00Z",
             "attendance": 64478,
             "timeValid": true,
-            "recent": true,
+            "recent": false,
             "status": {
               "clock": 5400,
               "displayClock": "90'+6'",
@@ -52403,7 +52403,7 @@
                   {
                     "name": "possessionPct",
                     "abbreviation": "PP",
-                    "displayValue": "51.6"
+                    "displayValue": "51.9"
                   },
                   {
                     "name": "shotAssists",
@@ -52574,7 +52574,7 @@
                   {
                     "name": "possessionPct",
                     "abbreviation": "PP",
-                    "displayValue": "48.4"
+                    "displayValue": "48.1"
                   },
                   {
                     "name": "shotAssists",
@@ -52898,7 +52898,7 @@
             "uid": "s:600~l:606~e:760466~c:760466",
             "date": "2026-06-25T01:00Z",
             "startDate": "2026-06-25T01:00Z",
-            "attendance": 0,
+            "attendance": 51243,
             "timeValid": true,
             "recent": true,
             "status": {
@@ -53136,7 +53136,7 @@
                   {
                     "name": "possessionPct",
                     "abbreviation": "PP",
-                    "displayValue": "31.5"
+                    "displayValue": "31.6"
                   },
                   {
                     "name": "shotAssists",
@@ -53307,7 +53307,7 @@
                   {
                     "name": "possessionPct",
                     "abbreviation": "PP",
-                    "displayValue": "68.5"
+                    "displayValue": "68.4"
                   },
                   {
                     "name": "shotAssists",
@@ -53600,8 +53600,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $534",
-                "numberAvailable": 343,
+                "summary": "Tickets as low as $477",
+                "numberAvailable": 282,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-lincoln-financial-field-6-25-2026--sports-soccer/production/5080643?wsUser=717"
@@ -54130,7 +54130,7 @@
                   ]
                 },
                 "drawOdds": {
-                  "moneyLine": 750,
+                  "moneyLine": 700,
                   "link": {
                     "language": "en-US",
                     "rel": [
@@ -54157,7 +54157,7 @@
                     },
                     "close": {
                       "line": "o3.5",
-                      "odds": "+125",
+                      "odds": "+120",
                       "link": {
                         "rel": [
                           "over",
@@ -54185,7 +54185,7 @@
                     },
                     "close": {
                       "line": "u3.5",
-                      "odds": "-155",
+                      "odds": "-150",
                       "link": {
                         "rel": [
                           "under",
@@ -54325,7 +54325,7 @@
                       "odds": "+425"
                     },
                     "close": {
-                      "odds": "+750",
+                      "odds": "+700",
                       "link": {
                         "rel": [
                           "draw",
@@ -54458,8 +54458,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $1,077",
-                "numberAvailable": 455,
+                "summary": "Tickets as low as $1,032",
+                "numberAvailable": 352,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-metlife-stadium-6-25-2026--sports-soccer/production/5080645?wsUser=717"
@@ -55060,7 +55060,7 @@
                     },
                     "close": {
                       "line": "+1.5",
-                      "odds": "-175",
+                      "odds": "-180",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -55301,8 +55301,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $1,037",
-                "numberAvailable": 421,
+                "summary": "Tickets as low as $992",
+                "numberAvailable": 464,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-att-stadium-6-25-2026--sports-soccer/production/5080649?wsUser=717"
@@ -55816,7 +55816,7 @@
                   "priority": 1
                 },
                 "drawOdds": {
-                  "moneyLine": 255,
+                  "moneyLine": 260,
                   "link": {
                     "language": "en-US",
                     "rel": [
@@ -55843,7 +55843,7 @@
                     },
                     "close": {
                       "line": "o2.5",
-                      "odds": "-125",
+                      "odds": "-115",
                       "link": {
                         "rel": [
                           "over",
@@ -55871,7 +55871,7 @@
                     },
                     "close": {
                       "line": "u2.5",
-                      "odds": "+100",
+                      "odds": "-110",
                       "link": {
                         "rel": [
                           "under",
@@ -56011,7 +56011,7 @@
                       "odds": "+250"
                     },
                     "close": {
-                      "odds": "+255",
+                      "odds": "+260",
                       "link": {
                         "rel": [
                           "draw",
@@ -56144,8 +56144,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $495",
-                "numberAvailable": 576,
+                "summary": "Tickets as low as $510",
+                "numberAvailable": 564,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-geha-field-at-arrowhead-stadium-6-25-2026--sports-soccer/production/5080653?wsUser=717"
@@ -56750,7 +56750,7 @@
                     },
                     "close": {
                       "line": "+2.5",
-                      "odds": "-110",
+                      "odds": "-105",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -56778,7 +56778,7 @@
                     },
                     "close": {
                       "line": "-2.5",
-                      "odds": "-115",
+                      "odds": "-125",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -56833,7 +56833,7 @@
                       "odds": "-175"
                     },
                     "close": {
-                      "odds": "-1100",
+                      "odds": "-1000",
                       "link": {
                         "rel": [
                           "away",
@@ -56879,7 +56879,7 @@
                     }
                   }
                 },
-                "details": "NED -1100"
+                "details": "NED -1000"
               }
             ],
             "wasSuspended": false,
@@ -56991,8 +56991,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $863",
-                "numberAvailable": 309,
+                "summary": "Tickets as low as $827",
+                "numberAvailable": 278,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-levis-stadium-6-25-2026--sports-soccer/production/5080661?wsUser=717"
@@ -57506,7 +57506,7 @@
                   "priority": 1
                 },
                 "drawOdds": {
-                  "moneyLine": 125,
+                  "moneyLine": 120,
                   "link": {
                     "language": "en-US",
                     "rel": [
@@ -57621,7 +57621,7 @@
                     },
                     "close": {
                       "line": "+0.5",
-                      "odds": "-220",
+                      "odds": "-225",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -57651,7 +57651,7 @@
                       "odds": "+120"
                     },
                     "close": {
-                      "odds": "+180",
+                      "odds": "+185",
                       "link": {
                         "rel": [
                           "home",
@@ -57676,7 +57676,7 @@
                       "odds": "+255"
                     },
                     "close": {
-                      "odds": "+310",
+                      "odds": "+300",
                       "link": {
                         "rel": [
                           "away",
@@ -57701,7 +57701,7 @@
                       "odds": "+225"
                     },
                     "close": {
-                      "odds": "+125",
+                      "odds": "+120",
                       "link": {
                         "rel": [
                           "draw",
@@ -57722,7 +57722,7 @@
                     }
                   }
                 },
-                "details": "PAR +180"
+                "details": "PAR +185"
               }
             ],
             "wasSuspended": false,
@@ -57834,8 +57834,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $1,265",
-                "numberAvailable": 368,
+                "summary": "Tickets as low as $1,252",
+                "numberAvailable": 278,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-sofi-stadium-6-25-2026--sports-soccer/production/5080656?wsUser=717"
@@ -58404,7 +58404,7 @@
                     },
                     "close": {
                       "line": "u2.5",
-                      "odds": "+115",
+                      "odds": "+120",
                       "link": {
                         "rel": [
                           "under",
@@ -58436,7 +58436,7 @@
                     },
                     "close": {
                       "line": "+0.5",
-                      "odds": "-110",
+                      "odds": "-105",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -58464,7 +58464,7 @@
                     },
                     "close": {
                       "line": "-0.5",
-                      "odds": "-115",
+                      "odds": "-125",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -58494,7 +58494,7 @@
                       "odds": "+180"
                     },
                     "close": {
-                      "odds": "+265",
+                      "odds": "+290",
                       "link": {
                         "rel": [
                           "home",
@@ -58519,7 +58519,7 @@
                       "odds": "+150"
                     },
                     "close": {
-                      "odds": "-110",
+                      "odds": "-115",
                       "link": {
                         "rel": [
                           "away",
@@ -58565,7 +58565,7 @@
                     }
                   }
                 },
-                "details": "USA -110"
+                "details": "USA -115"
               }
             ],
             "wasSuspended": false,
@@ -58677,8 +58677,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $1,946",
-                "numberAvailable": 480,
+                "summary": "Tickets as low as $1,892",
+                "numberAvailable": 473,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-gillette-stadium-6-26-2026--sports-soccer/production/5080674?wsUser=717"
@@ -59307,7 +59307,7 @@
                     },
                     "close": {
                       "line": "-0.5",
-                      "odds": "-160",
+                      "odds": "-170",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -59337,7 +59337,7 @@
                       "odds": "+390"
                     },
                     "close": {
-                      "odds": "+380",
+                      "odds": "+400",
                       "link": {
                         "rel": [
                           "home",
@@ -59362,7 +59362,7 @@
                       "odds": "-140"
                     },
                     "close": {
-                      "odds": "-155",
+                      "odds": "-160",
                       "link": {
                         "rel": [
                           "away",
@@ -59408,7 +59408,7 @@
                     }
                   }
                 },
-                "details": "FRA -155"
+                "details": "FRA -160"
               }
             ],
             "wasSuspended": false,
@@ -61766,7 +61766,7 @@
                     },
                     "close": {
                       "line": "+1.5",
-                      "odds": "-185",
+                      "odds": "-180",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -62008,7 +62008,7 @@
             "tickets": [
               {
                 "summary": "Tickets as low as $683",
-                "numberAvailable": 912,
+                "numberAvailable": 943,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-lumen-field-6-26-2026--sports-soccer/production/5080680?wsUser=717"
@@ -62850,8 +62850,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $652",
-                "numberAvailable": 507,
+                "summary": "Tickets as low as $645",
+                "numberAvailable": 501,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-bc-place-stadium-6-26-2026--sports-soccer/production/5080683?wsUser=717"
@@ -64536,8 +64536,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $1,139",
-                "numberAvailable": 822,
+                "summary": "Tickets as low as $1,250",
+                "numberAvailable": 855,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-metlife-stadium-6-27-2026--sports-soccer/production/5080698?wsUser=717"
@@ -65106,7 +65106,7 @@
                     },
                     "close": {
                       "line": "u3.5",
-                      "odds": "-135",
+                      "odds": "-140",
                       "link": {
                         "rel": [
                           "under",
@@ -65166,7 +65166,7 @@
                     },
                     "close": {
                       "line": "-2.5",
-                      "odds": "+120",
+                      "odds": "+125",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -65380,7 +65380,7 @@
             "tickets": [
               {
                 "summary": "Tickets as low as $3,383",
-                "numberAvailable": 907,
+                "numberAvailable": 966,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-hard-rock-stadium-6-27-2026--sports-soccer/production/5080718?wsUser=717"
@@ -65894,7 +65894,7 @@
                   "priority": 1
                 },
                 "drawOdds": {
-                  "moneyLine": 275,
+                  "moneyLine": 280,
                   "link": {
                     "language": "en-US",
                     "rel": [
@@ -65921,7 +65921,7 @@
                     },
                     "close": {
                       "line": "o2.5",
-                      "odds": "+105",
+                      "odds": "+100",
                       "link": {
                         "rel": [
                           "over",
@@ -65949,7 +65949,7 @@
                     },
                     "close": {
                       "line": "u2.5",
-                      "odds": "-130",
+                      "odds": "-125",
                       "link": {
                         "rel": [
                           "under",
@@ -65981,7 +65981,7 @@
                     },
                     "close": {
                       "line": "+0.5",
-                      "odds": "-105",
+                      "odds": "+100",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -66009,7 +66009,7 @@
                     },
                     "close": {
                       "line": "-0.5",
-                      "odds": "-120",
+                      "odds": "-125",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -66064,7 +66064,7 @@
                       "odds": "+115"
                     },
                     "close": {
-                      "odds": "-115",
+                      "odds": "-120",
                       "link": {
                         "rel": [
                           "away",
@@ -66089,7 +66089,7 @@
                       "odds": "+235"
                     },
                     "close": {
-                      "odds": "+275",
+                      "odds": "+280",
                       "link": {
                         "rel": [
                           "draw",
@@ -66110,7 +66110,7 @@
                     }
                   }
                 },
-                "details": "POR -115"
+                "details": "POR -120"
               }
             ],
             "wasSuspended": false,
@@ -67048,8 +67048,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $432",
-                "numberAvailable": 797,
+                "summary": "Tickets as low as $458",
+                "numberAvailable": 807,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-geha-field-at-arrowhead-stadium-6-27-2026--sports-soccer/production/5080707?wsUser=717"
@@ -67590,7 +67590,7 @@
                     },
                     "close": {
                       "line": "o1.5",
-                      "odds": "-195",
+                      "odds": "-200",
                       "link": {
                         "rel": [
                           "over",
@@ -67891,8 +67891,8 @@
             },
             "tickets": [
               {
-                "summary": "Tickets as low as $2,110",
-                "numberAvailable": 670,
+                "summary": "Tickets as low as $2,114",
+                "numberAvailable": 664,
                 "links": [
                   {
                     "href": "https://www.vividseats.com/world-cup-soccer-tickets-att-stadium-6-27-2026--sports-soccer/production/5080712?wsUser=717"
@@ -68408,7 +68408,7 @@
                   "priority": 1
                 },
                 "drawOdds": {
-                  "moneyLine": 600,
+                  "moneyLine": 650,
                   "link": {
                     "language": "en-US",
                     "rel": [
@@ -68435,7 +68435,7 @@
                     },
                     "close": {
                       "line": "o2.5",
-                      "odds": "-165",
+                      "odds": "-170",
                       "link": {
                         "rel": [
                           "over",
@@ -68495,7 +68495,7 @@
                     },
                     "close": {
                       "line": "+1.5",
-                      "odds": "+125",
+                      "odds": "+130",
                       "link": {
                         "rel": [
                           "homeSpread",
@@ -68523,7 +68523,7 @@
                     },
                     "close": {
                       "line": "-1.5",
-                      "odds": "-155",
+                      "odds": "-165",
                       "link": {
                         "rel": [
                           "awaySpread",
@@ -68578,7 +68578,7 @@
                       "odds": "-550"
                     },
                     "close": {
-                      "odds": "-475",
+                      "odds": "-500",
                       "link": {
                         "rel": [
                           "away",
@@ -68603,7 +68603,7 @@
                       "odds": "+650"
                     },
                     "close": {
-                      "odds": "+600",
+                      "odds": "+650",
                       "link": {
                         "rel": [
                           "draw",
@@ -68624,7 +68624,7 @@
                     }
                   }
                 },
-                "details": "ARG -475"
+                "details": "ARG -500"
               }
             ],
             "wasSuspended": false,
