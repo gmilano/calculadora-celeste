@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-28T07:21:05.460Z",
+  "fetchedAt": "2026-06-28T10:00:44.950Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -65011,7 +65011,7 @@
             "startDate": "2026-06-27T23:30Z",
             "attendance": 64478,
             "timeValid": true,
-            "recent": true,
+            "recent": false,
             "status": {
               "clock": 5400,
               "displayClock": "90'+6'",
@@ -65609,7 +65609,7 @@
             "startDate": "2026-06-27T23:30Z",
             "attendance": 68239,
             "timeValid": true,
-            "recent": true,
+            "recent": false,
             "status": {
               "clock": 5400,
               "displayClock": "90'+8'",
@@ -66547,7 +66547,7 @@
             "startDate": "2026-06-28T02:00Z",
             "attendance": 69045,
             "timeValid": true,
-            "recent": true,
+            "recent": false,
             "status": {
               "clock": 5400,
               "displayClock": "90'+7'",
@@ -67397,7 +67397,7 @@
             "startDate": "2026-06-28T02:00Z",
             "attendance": 70649,
             "timeValid": true,
-            "recent": true,
+            "recent": false,
             "status": {
               "clock": 5400,
               "displayClock": "90'+6'",
