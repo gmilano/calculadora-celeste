@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-29T10:35:21.833Z",
+  "fetchedAt": "2026-06-29T13:27:46.093Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -13814,7 +13814,7 @@
                     "id": "289046",
                     "displayName": "Maurício",
                     "shortName": "Maurício",
-                    "fullName": "Maurício null",
+                    "fullName": "Maurício",
                     "jersey": "11",
                     "team": {
                       "id": "210"
@@ -20991,9 +20991,9 @@
                 "athletesInvolved": [
                   {
                     "id": "250465",
-                    "displayName": "Pedri ",
-                    "shortName": "Pedri ",
-                    "fullName": "Pedri ",
+                    "displayName": "Pedri",
+                    "shortName": "Pedri",
+                    "fullName": "Pedri",
                     "jersey": "20",
                     "team": {
                       "id": "164"
@@ -62453,18 +62453,6 @@
             "isExternal": false,
             "isPremium": false,
             "isHidden": false
-          },
-          {
-            "language": "en-US",
-            "rel": [
-              "highlights",
-              "desktop"
-            ],
-            "href": "https://www.espn.com/soccer/video/_/gameId/760476",
-            "text": "Highlights",
-            "shortText": "Highlights",
-            "isExternal": false,
-            "isPremium": false
           },
           {
             "language": "en-US",
