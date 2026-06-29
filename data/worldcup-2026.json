@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-29T00:41:15.189Z",
+  "fetchedAt": "2026-06-29T04:31:55.549Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -63981,8 +63981,8 @@
               },
               {
                 "type": {
-                  "id": "173",
-                  "text": "Goal - Volley"
+                  "id": "70",
+                  "text": "Goal"
                 },
                 "clock": {
                   "value": 4349,
@@ -64758,8 +64758,8 @@
               },
               {
                 "type": {
-                  "id": "173",
-                  "text": "Goal - Volley"
+                  "id": "70",
+                  "text": "Goal"
                 },
                 "clock": {
                   "value": 3686,
