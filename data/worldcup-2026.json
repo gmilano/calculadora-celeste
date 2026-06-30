@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-30T18:36:39.962Z",
+  "fetchedAt": "2026-06-30T21:31:58.400Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -18951,7 +18951,7 @@
                 "homeAway": "home",
                 "winner": true,
                 "advance": true,
-                "form": "WLWWW",
+                "form": "LWLWW",
                 "score": "1",
                 "records": [
                   {
@@ -24414,7 +24414,7 @@
                 "homeAway": "away",
                 "winner": true,
                 "advance": true,
-                "form": "LWWDW",
+                "form": "WLWWD",
                 "score": "4",
                 "records": [
                   {
@@ -37472,7 +37472,7 @@
                 "homeAway": "away",
                 "winner": false,
                 "advance": false,
-                "form": "WLWWW",
+                "form": "LWLWW",
                 "score": "1",
                 "records": [
                   {
@@ -44359,7 +44359,7 @@
                 "homeAway": "home",
                 "winner": true,
                 "advance": true,
-                "form": "LWWDW",
+                "form": "WLWWD",
                 "score": "3",
                 "records": [
                   {
@@ -53826,7 +53826,7 @@
                 "homeAway": "away",
                 "winner": true,
                 "advance": true,
-                "form": "WLWWW",
+                "form": "LWLWW",
                 "score": "2",
                 "records": [
                   {
@@ -58242,7 +58242,7 @@
                 "homeAway": "home",
                 "winner": false,
                 "advance": false,
-                "form": "LWWDW",
+                "form": "WLWWD",
                 "score": "1",
                 "records": [
                   {
@@ -59929,18 +59929,6 @@
             "isExternal": false,
             "isPremium": false,
             "isHidden": false
-          },
-          {
-            "language": "en-US",
-            "rel": [
-              "highlights",
-              "desktop"
-            ],
-            "href": "https://www.espn.com/soccer/video/_/gameId/760474",
-            "text": "Highlights",
-            "shortText": "Highlights",
-            "isExternal": false,
-            "isPremium": false
           },
           {
             "language": "en-US",
