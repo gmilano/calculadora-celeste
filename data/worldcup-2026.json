@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-30T21:31:58.400Z",
+  "fetchedAt": "2026-07-01T00:41:18.809Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -15448,7 +15448,7 @@
                     "id": "173666",
                     "displayName": "Casemiro",
                     "shortName": "Casemiro",
-                    "fullName": "Casemiro ",
+                    "fullName": "Casemiro",
                     "jersey": "5",
                     "team": {
                       "id": "205"
@@ -19727,7 +19727,7 @@
                 "homeAway": "home",
                 "winner": true,
                 "advance": true,
-                "form": "DLWDL",
+                "form": "LDLWD",
                 "score": "5",
                 "records": [
                   {
@@ -23511,7 +23511,7 @@
                 "homeAway": "home",
                 "winner": true,
                 "advance": true,
-                "form": "WWWWL",
+                "form": "WWWWW",
                 "score": "3",
                 "records": [
                   {
@@ -36517,7 +36517,7 @@
                 "homeAway": "away",
                 "winner": false,
                 "advance": false,
-                "form": "DLWDL",
+                "form": "LDLWD",
                 "score": "1",
                 "records": [
                   {
@@ -43627,7 +43627,7 @@
                 "homeAway": "home",
                 "winner": true,
                 "advance": true,
-                "form": "WWWWL",
+                "form": "WWWWW",
                 "score": "3",
                 "records": [
                   {
@@ -55465,7 +55465,7 @@
                 "order": 1,
                 "homeAway": "away",
                 "winner": false,
-                "form": "DLWDL",
+                "form": "LDLWD",
                 "score": "1",
                 "records": [
                   {
@@ -58413,7 +58413,7 @@
                 "homeAway": "away",
                 "winner": true,
                 "advance": true,
-                "form": "WWWWL",
+                "form": "WWWWW",
                 "score": "4",
                 "records": [
                   {
