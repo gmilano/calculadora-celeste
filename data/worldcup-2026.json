@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-03T15:39:24.220Z",
+  "fetchedAt": "2026-07-03T18:27:41.699Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -12342,8 +12342,8 @@
                   "shortDisplayName": "Canada",
                   "name": "Canada",
                   "location": "Canada",
-                  "color": "ed2224",
-                  "alternateColor": "000000",
+                  "color": "000000",
+                  "alternateColor": "ed2224",
                   "isActive": true,
                   "logo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
                   "links": [
@@ -13206,8 +13206,8 @@
                   "shortDisplayName": "USA",
                   "name": "United States",
                   "location": "United States",
-                  "color": "d42339",
-                  "alternateColor": "213065",
+                  "color": "213065",
+                  "alternateColor": "d42339",
                   "isActive": true,
                   "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
                   "links": [
@@ -21254,7 +21254,7 @@
                   "name": "Belgium",
                   "location": "Belgium",
                   "color": "E30613",
-                  "alternateColor": "000000",
+                  "alternateColor": "6ECFF6",
                   "isActive": true,
                   "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
                   "links": [
@@ -24436,7 +24436,7 @@
                   "name": "Norway",
                   "location": "Norway",
                   "color": "C8102E",
-                  "alternateColor": "000000",
+                  "alternateColor": "C8102E",
                   "isActive": true,
                   "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
                   "links": [
@@ -27353,8 +27353,8 @@
                   "shortDisplayName": "England",
                   "name": "England",
                   "location": "England",
-                  "color": "ffffff",
-                  "alternateColor": "EA1F29",
+                  "color": "EA1F29",
+                  "alternateColor": "FFFFFF",
                   "isActive": true,
                   "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
                   "links": [
@@ -31426,8 +31426,8 @@
                   "shortDisplayName": "Canada",
                   "name": "Canada",
                   "location": "Canada",
-                  "color": "ed2224",
-                  "alternateColor": "000000",
+                  "color": "000000",
+                  "alternateColor": "ed2224",
                   "isActive": true,
                   "logo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
                   "links": [
@@ -33109,8 +33109,8 @@
                   "shortDisplayName": "USA",
                   "name": "United States",
                   "location": "United States",
-                  "color": "d42339",
-                  "alternateColor": "213065",
+                  "color": "213065",
+                  "alternateColor": "d42339",
                   "isActive": true,
                   "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
                   "links": [
@@ -40373,7 +40373,7 @@
                   "name": "Belgium",
                   "location": "Belgium",
                   "color": "E30613",
-                  "alternateColor": "000000",
+                  "alternateColor": "6ECFF6",
                   "isActive": true,
                   "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
                   "links": [
@@ -44384,7 +44384,7 @@
                   "name": "Norway",
                   "location": "Norway",
                   "color": "C8102E",
-                  "alternateColor": "000000",
+                  "alternateColor": "C8102E",
                   "isActive": true,
                   "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
                   "links": [
@@ -46785,8 +46785,8 @@
                   "shortDisplayName": "England",
                   "name": "England",
                   "location": "England",
-                  "color": "ffffff",
-                  "alternateColor": "EA1F29",
+                  "color": "EA1F29",
+                  "alternateColor": "FFFFFF",
                   "isActive": true,
                   "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
                   "links": [
@@ -49836,8 +49836,8 @@
                   "shortDisplayName": "Canada",
                   "name": "Canada",
                   "location": "Canada",
-                  "color": "ed2224",
-                  "alternateColor": "000000",
+                  "color": "000000",
+                  "alternateColor": "ed2224",
                   "isActive": true,
                   "logo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
                   "links": [
@@ -57617,8 +57617,8 @@
                   "shortDisplayName": "USA",
                   "name": "United States",
                   "location": "United States",
-                  "color": "d42339",
-                  "alternateColor": "213065",
+                  "color": "213065",
+                  "alternateColor": "d42339",
                   "isActive": true,
                   "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
                   "links": [
@@ -58270,7 +58270,7 @@
                   "name": "Norway",
                   "location": "Norway",
                   "color": "C8102E",
-                  "alternateColor": "000000",
+                  "alternateColor": "C8102E",
                   "isActive": true,
                   "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
                   "links": [
@@ -62777,7 +62777,7 @@
                   "name": "Belgium",
                   "location": "Belgium",
                   "color": "E30613",
-                  "alternateColor": "000000",
+                  "alternateColor": "6ECFF6",
                   "isActive": true,
                   "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
                   "links": [
@@ -64461,8 +64461,8 @@
                   "shortDisplayName": "England",
                   "name": "England",
                   "location": "England",
-                  "color": "ffffff",
-                  "alternateColor": "EA1F29",
+                  "color": "EA1F29",
+                  "alternateColor": "FFFFFF",
                   "isActive": true,
                   "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
                   "links": [
