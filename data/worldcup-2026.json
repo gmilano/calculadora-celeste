@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-03T04:17:56.665Z",
+  "fetchedAt": "2026-07-03T07:05:01.251Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -14396,7 +14396,7 @@
                 "order": 1,
                 "homeAway": "away",
                 "winner": false,
-                "form": "WWDDW",
+                "form": "WWWDD",
                 "score": "1",
                 "records": [
                   {
@@ -25237,7 +25237,7 @@
                 "homeAway": "away",
                 "winner": false,
                 "advance": false,
-                "form": "DWLWW",
+                "form": "LDWLW",
                 "score": "0",
                 "records": [
                   {
@@ -30459,7 +30459,7 @@
                 "homeAway": "home",
                 "winner": true,
                 "advance": true,
-                "form": "WWDDW",
+                "form": "WWWDD",
                 "score": "4",
                 "records": [
                   {
@@ -45313,7 +45313,7 @@
                 "homeAway": "away",
                 "winner": true,
                 "advance": true,
-                "form": "DWLWW",
+                "form": "LDWLW",
                 "score": "2",
                 "records": [
                   {
@@ -49647,7 +49647,7 @@
                 "homeAway": "home",
                 "winner": true,
                 "advance": true,
-                "form": "WWDDW",
+                "form": "WWWDD",
                 "score": "2",
                 "records": [
                   {
@@ -66583,7 +66583,7 @@
                 "order": 0,
                 "homeAway": "home",
                 "winner": false,
-                "form": "DWLWW",
+                "form": "LDWLW",
                 "score": "3",
                 "records": [
                   {
