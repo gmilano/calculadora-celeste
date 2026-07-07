@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-07T12:48:27.522Z",
+  "fetchedAt": "2026-07-07T15:53:07.523Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -42571,7 +42571,7 @@
                     "id": "157825",
                     "displayName": "Trézéguet",
                     "shortName": "Trézéguet",
-                    "fullName": "Trézéguet null",
+                    "fullName": "Trézéguet",
                     "jersey": "7",
                     "team": {
                       "id": "2620"
