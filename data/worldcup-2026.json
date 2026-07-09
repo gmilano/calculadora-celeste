@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-09T04:24:57.720Z",
+  "fetchedAt": "2026-07-09T07:16:37.342Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -10533,10 +10533,10 @@
           "endDate": "2026-12-31T04:59Z",
           "displayName": "2026 FIFA World Cup",
           "type": {
-            "id": "3",
-            "type": 13800,
-            "name": "Round of 16",
-            "abbreviation": "Round of 16"
+            "id": "4",
+            "type": 13799,
+            "name": "Quarterfinals",
+            "abbreviation": "Quarterfinals"
           }
         },
         "logos": [
