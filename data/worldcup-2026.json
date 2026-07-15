@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T21:20:46.286Z",
+  "fetchedAt": "2026-07-15T00:23:43.852Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -9578,7 +9578,7 @@
           {
             "id": "1",
             "name": "Group Stage",
-            "abbreviation": "2018 FIFA World Cup",
+            "abbreviation": "Group Stage",
             "startDate": "2018-06-14T04:00Z",
             "endDate": "2018-06-30T03:59Z",
             "hasStandings": true
@@ -9609,8 +9609,8 @@
           },
           {
             "id": "5",
-            "name": "Third Place",
-            "abbreviation": "Third Place",
+            "name": "3rd-Place Match",
+            "abbreviation": "3rd-Place",
             "startDate": "2018-07-12T04:00Z",
             "endDate": "2018-07-15T03:59Z",
             "hasStandings": false
