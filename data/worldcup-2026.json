@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-19T06:51:12.810Z",
+  "fetchedAt": "2026-07-19T09:34:33.065Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -10533,10 +10533,10 @@
           "endDate": "2026-12-31T04:59Z",
           "displayName": "2026 FIFA World Cup",
           "type": {
-            "id": "5",
-            "type": 13798,
-            "name": "Semifinals",
-            "abbreviation": "Semifinals"
+            "id": "7",
+            "type": 13803,
+            "name": "Final",
+            "abbreviation": "Final"
           }
         },
         "logos": [
