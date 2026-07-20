@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-20T18:38:02.614Z",
+  "fetchedAt": "2026-07-20T21:25:06.890Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -16618,10 +16618,7 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ],
-                  "venue": {
-                    "id": "1800"
-                  }
+                  ]
                 },
                 "statistics": [
                   {
@@ -33372,10 +33369,7 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ],
-                  "venue": {
-                    "id": "1800"
-                  }
+                  ]
                 },
                 "statistics": [
                   {
@@ -57077,10 +57071,7 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ],
-                  "venue": {
-                    "id": "1800"
-                  }
+                  ]
                 },
                 "statistics": [
                   {
