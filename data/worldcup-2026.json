@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-24T18:29:56.146Z",
+  "fetchedAt": "2026-07-24T21:23:39.507Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -13590,9 +13590,9 @@
                 "athletesInvolved": [
                   {
                     "id": "84295",
-                    "displayName": "Juan Jose Cáceres",
+                    "displayName": "Juan Cáceres",
                     "shortName": "J. Cáceres",
-                    "fullName": "Juan Jose Cáceres",
+                    "fullName": "Juan Cáceres",
                     "jersey": "4",
                     "team": {
                       "id": "210"
@@ -13604,7 +13604,7 @@
                           "desktop",
                           "athlete"
                         ],
-                        "href": "https://www.espn.com/soccer/player/_/id/84295/juan-jose-caceres",
+                        "href": "https://www.espn.com/soccer/player/_/id/84295/juan-caceres",
                         "isHidden": false
                       }
                     ],
