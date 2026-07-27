@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-27T00:32:11.188Z",
+  "fetchedAt": "2026-07-27T04:16:06.003Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -51241,18 +51241,6 @@
             "isExternal": false,
             "isPremium": false,
             "isHidden": false
-          },
-          {
-            "language": "en-US",
-            "rel": [
-              "highlights",
-              "desktop"
-            ],
-            "href": "https://www.espn.com/soccer/video/_/gameId/760464",
-            "text": "Highlights",
-            "shortText": "Highlights",
-            "isExternal": false,
-            "isPremium": false
           },
           {
             "language": "en-US",
