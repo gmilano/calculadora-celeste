@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-07T15:17:33.603Z",
+  "fetchedAt": "2026-08-07T18:15:58.791Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -11702,10 +11702,7 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ],
-                  "venue": {
-                    "id": "2712"
-                  }
+                  ]
                 },
                 "statistics": [
                   {
@@ -13300,7 +13297,7 @@
                     }
                   ],
                   "venue": {
-                    "id": "6971"
+                    "id": "2710"
                   }
                 },
                 "statistics": [
@@ -18371,7 +18368,10 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ]
+                  ],
+                  "venue": {
+                    "id": "9891"
+                  }
                 },
                 "statistics": [
                   {
@@ -23016,10 +23016,7 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ],
-                  "venue": {
-                    "id": "4603"
-                  }
+                  ]
                 },
                 "statistics": [
                   {
@@ -32678,10 +32675,7 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ],
-                  "venue": {
-                    "id": "2712"
-                  }
+                  ]
                 },
                 "statistics": [
                   {
@@ -33197,7 +33191,7 @@
                     }
                   ],
                   "venue": {
-                    "id": "6971"
+                    "id": "2710"
                   }
                 },
                 "statistics": [
@@ -39090,7 +39084,10 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ]
+                  ],
+                  "venue": {
+                    "id": "9891"
+                  }
                 },
                 "statistics": [
                   {
@@ -42048,10 +42045,7 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ],
-                  "venue": {
-                    "id": "4603"
-                  }
+                  ]
                 },
                 "statistics": [
                   {
@@ -53230,10 +53224,7 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ],
-                  "venue": {
-                    "id": "2712"
-                  }
+                  ]
                 },
                 "statistics": [
                   {
@@ -55387,7 +55378,10 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ]
+                  ],
+                  "venue": {
+                    "id": "9891"
+                  }
                 },
                 "statistics": [
                   {
@@ -57684,7 +57678,7 @@
                     }
                   ],
                   "venue": {
-                    "id": "6971"
+                    "id": "2710"
                   }
                 },
                 "statistics": [
@@ -62670,10 +62664,7 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ],
-                  "venue": {
-                    "id": "4603"
-                  }
+                  ]
                 },
                 "statistics": [
                   {
