@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-12T18:17:58.439Z",
+  "fetchedAt": "2026-08-12T21:15:56.505Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -15,7 +15,7 @@
         "standings": {
           "id": "0",
           "name": "overall",
-          "displayName": "Overall Standings",
+          "displayName": "Standings",
           "links": [
             {
               "language": "en-US",
@@ -23,8 +23,8 @@
                 "standings",
                 "desktop"
               ],
-              "href": "https://www.espn.com/fifa.world/standings/_/group/1",
-              "text": "Standings",
+              "href": "https://www.espn.com/soccer/table/_/league/fifa.world",
+              "text": "Full Table",
               "shortText": "Standings",
               "isExternal": false,
               "isPremium": false
@@ -65,21 +65,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/203/Mexico",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:203",
+                    "href": "https://www.espn.com/soccer/team/_/id/203/mexico",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -226,7 +212,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -268,21 +254,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/467/South Africa",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:467",
+                    "href": "https://www.espn.com/soccer/team/_/id/467/south-africa",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -429,7 +401,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -471,21 +443,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/451/South Korea",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:451",
+                    "href": "https://www.espn.com/soccer/team/_/id/451/south-korea",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -632,7 +590,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -674,21 +632,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/450/Czechia",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:450",
+                    "href": "https://www.espn.com/soccer/team/_/id/450/czechia",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -835,7 +779,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -857,7 +801,7 @@
         "standings": {
           "id": "0",
           "name": "overall",
-          "displayName": "Overall Standings",
+          "displayName": "Standings",
           "links": [
             {
               "language": "en-US",
@@ -865,8 +809,8 @@
                 "standings",
                 "desktop"
               ],
-              "href": "https://www.espn.com/fifa.world/standings/_/group/2",
-              "text": "Standings",
+              "href": "https://www.espn.com/soccer/table/_/league/fifa.world",
+              "text": "Full Table",
               "shortText": "Standings",
               "isExternal": false,
               "isPremium": false
@@ -907,21 +851,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/475/Switzerland",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:475",
+                    "href": "https://www.espn.com/soccer/team/_/id/475/switzerland",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -1068,7 +998,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -1110,21 +1040,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/206/Canada",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:206",
+                    "href": "https://www.espn.com/soccer/team/_/id/206/canada",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -1271,7 +1187,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -1313,21 +1229,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/452/Bosnia-Herzegovina",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:452",
+                    "href": "https://www.espn.com/soccer/team/_/id/452/bosnia-herzegovina",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -1474,7 +1376,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -1516,21 +1418,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/4398/Qatar",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:4398",
+                    "href": "https://www.espn.com/soccer/team/_/id/4398/qatar",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -1677,7 +1565,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -1699,7 +1587,7 @@
         "standings": {
           "id": "0",
           "name": "overall",
-          "displayName": "Overall Standings",
+          "displayName": "Standings",
           "links": [
             {
               "language": "en-US",
@@ -1707,8 +1595,8 @@
                 "standings",
                 "desktop"
               ],
-              "href": "https://www.espn.com/fifa.world/standings/_/group/3",
-              "text": "Standings",
+              "href": "https://www.espn.com/soccer/table/_/league/fifa.world",
+              "text": "Full Table",
               "shortText": "Standings",
               "isExternal": false,
               "isPremium": false
@@ -1749,21 +1637,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/205/Brazil",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:205",
+                    "href": "https://www.espn.com/soccer/team/_/id/205/brazil",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -1910,7 +1784,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -1952,21 +1826,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/2869/Morocco",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:2869",
+                    "href": "https://www.espn.com/soccer/team/_/id/2869/morocco",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -2113,7 +1973,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -2155,21 +2015,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/580/Scotland",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:580",
+                    "href": "https://www.espn.com/soccer/team/_/id/580/scotland",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -2316,7 +2162,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -2358,21 +2204,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/2654/Haiti",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:2654",
+                    "href": "https://www.espn.com/soccer/team/_/id/2654/haiti",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -2519,7 +2351,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -2541,7 +2373,7 @@
         "standings": {
           "id": "0",
           "name": "overall",
-          "displayName": "Overall Standings",
+          "displayName": "Standings",
           "links": [
             {
               "language": "en-US",
@@ -2549,8 +2381,8 @@
                 "standings",
                 "desktop"
               ],
-              "href": "https://www.espn.com/fifa.world/standings/_/group/4",
-              "text": "Standings",
+              "href": "https://www.espn.com/soccer/table/_/league/fifa.world",
+              "text": "Full Table",
               "shortText": "Standings",
               "isExternal": false,
               "isPremium": false
@@ -2591,21 +2423,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/660/United States",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:660",
+                    "href": "https://www.espn.com/soccer/team/_/id/660/united-states",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -2752,7 +2570,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -2794,21 +2612,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/628/Australia",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:628",
+                    "href": "https://www.espn.com/soccer/team/_/id/628/australia",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -2955,7 +2759,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -2997,21 +2801,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/210/Paraguay",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:210",
+                    "href": "https://www.espn.com/soccer/team/_/id/210/paraguay",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -3158,7 +2948,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -3200,21 +2990,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/465/Türkiye",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:465",
+                    "href": "https://www.espn.com/soccer/team/_/id/465/turkiye",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -3361,7 +3137,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -3383,7 +3159,7 @@
         "standings": {
           "id": "0",
           "name": "overall",
-          "displayName": "Overall Standings",
+          "displayName": "Standings",
           "links": [
             {
               "language": "en-US",
@@ -3391,8 +3167,8 @@
                 "standings",
                 "desktop"
               ],
-              "href": "https://www.espn.com/fifa.world/standings/_/group/5",
-              "text": "Standings",
+              "href": "https://www.espn.com/soccer/table/_/league/fifa.world",
+              "text": "Full Table",
               "shortText": "Standings",
               "isExternal": false,
               "isPremium": false
@@ -3433,21 +3209,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/481/Germany",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:481",
+                    "href": "https://www.espn.com/soccer/team/_/id/481/germany",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -3594,7 +3356,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -3636,21 +3398,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/4789/Ivory Coast",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:4789",
+                    "href": "https://www.espn.com/soccer/team/_/id/4789/ivory-coast",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -3797,7 +3545,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -3839,21 +3587,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/209/Ecuador",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:209",
+                    "href": "https://www.espn.com/soccer/team/_/id/209/ecuador",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -4000,7 +3734,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -4042,21 +3776,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/club/_/id/11678/Curaçao",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:11678",
+                    "href": "https://www.espn.com/soccer/club/_/id/11678/curacao",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -4203,7 +3923,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -4225,7 +3945,7 @@
         "standings": {
           "id": "0",
           "name": "overall",
-          "displayName": "Overall Standings",
+          "displayName": "Standings",
           "links": [
             {
               "language": "en-US",
@@ -4233,8 +3953,8 @@
                 "standings",
                 "desktop"
               ],
-              "href": "https://www.espn.com/fifa.world/standings/_/group/6",
-              "text": "Standings",
+              "href": "https://www.espn.com/soccer/table/_/league/fifa.world",
+              "text": "Full Table",
               "shortText": "Standings",
               "isExternal": false,
               "isPremium": false
@@ -4275,21 +3995,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/449/Netherlands",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:449",
+                    "href": "https://www.espn.com/soccer/team/_/id/449/netherlands",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -4436,7 +4142,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -4478,21 +4184,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/627/Japan",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:627",
+                    "href": "https://www.espn.com/soccer/team/_/id/627/japan",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -4639,7 +4331,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -4681,21 +4373,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/466/Sweden",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:466",
+                    "href": "https://www.espn.com/soccer/team/_/id/466/sweden",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -4842,7 +4520,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -4884,21 +4562,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/659/Tunisia",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:659",
+                    "href": "https://www.espn.com/soccer/team/_/id/659/tunisia",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -5045,7 +4709,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -5067,7 +4731,7 @@
         "standings": {
           "id": "0",
           "name": "overall",
-          "displayName": "Overall Standings",
+          "displayName": "Standings",
           "links": [
             {
               "language": "en-US",
@@ -5075,8 +4739,8 @@
                 "standings",
                 "desktop"
               ],
-              "href": "https://www.espn.com/fifa.world/standings/_/group/7",
-              "text": "Standings",
+              "href": "https://www.espn.com/soccer/table/_/league/fifa.world",
+              "text": "Full Table",
               "shortText": "Standings",
               "isExternal": false,
               "isPremium": false
@@ -5117,21 +4781,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/459/Belgium",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:459",
+                    "href": "https://www.espn.com/soccer/team/_/id/459/belgium",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -5278,7 +4928,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -5320,21 +4970,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/2620/Egypt",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:2620",
+                    "href": "https://www.espn.com/soccer/team/_/id/2620/egypt",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -5481,7 +5117,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -5523,21 +5159,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/469/Iran",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:469",
+                    "href": "https://www.espn.com/soccer/team/_/id/469/iran",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -5684,7 +5306,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -5726,21 +5348,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/2666/New Zealand",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:2666",
+                    "href": "https://www.espn.com/soccer/team/_/id/2666/new-zealand",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -5887,7 +5495,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -5909,7 +5517,7 @@
         "standings": {
           "id": "0",
           "name": "overall",
-          "displayName": "Overall Standings",
+          "displayName": "Standings",
           "links": [
             {
               "language": "en-US",
@@ -5917,8 +5525,8 @@
                 "standings",
                 "desktop"
               ],
-              "href": "https://www.espn.com/fifa.world/standings/_/group/8",
-              "text": "Standings",
+              "href": "https://www.espn.com/soccer/table/_/league/fifa.world",
+              "text": "Full Table",
               "shortText": "Standings",
               "isExternal": false,
               "isPremium": false
@@ -5959,21 +5567,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/164/Spain",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:164",
+                    "href": "https://www.espn.com/soccer/team/_/id/164/spain",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -6120,7 +5714,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -6162,21 +5756,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/2597/Cape Verde",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:2597",
+                    "href": "https://www.espn.com/soccer/team/_/id/2597/cape-verde",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -6323,7 +5903,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -6365,21 +5945,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/212/Uruguay",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:212",
+                    "href": "https://www.espn.com/soccer/team/_/id/212/uruguay",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -6526,7 +6092,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -6568,21 +6134,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/655/Saudi Arabia",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:655",
+                    "href": "https://www.espn.com/soccer/team/_/id/655/saudi-arabia",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -6729,7 +6281,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -6751,7 +6303,7 @@
         "standings": {
           "id": "0",
           "name": "overall",
-          "displayName": "Overall Standings",
+          "displayName": "Standings",
           "links": [
             {
               "language": "en-US",
@@ -6759,8 +6311,8 @@
                 "standings",
                 "desktop"
               ],
-              "href": "https://www.espn.com/fifa.world/standings/_/group/9",
-              "text": "Standings",
+              "href": "https://www.espn.com/soccer/table/_/league/fifa.world",
+              "text": "Full Table",
               "shortText": "Standings",
               "isExternal": false,
               "isPremium": false
@@ -6801,21 +6353,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/478/France",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:478",
+                    "href": "https://www.espn.com/soccer/team/_/id/478/france",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -6962,7 +6500,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -7004,21 +6542,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/464/Norway",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:464",
+                    "href": "https://www.espn.com/soccer/team/_/id/464/norway",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -7165,7 +6689,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -7207,21 +6731,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/654/Senegal",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:654",
+                    "href": "https://www.espn.com/soccer/team/_/id/654/senegal",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -7368,7 +6878,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -7410,21 +6920,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/4375/Iraq",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:4375",
+                    "href": "https://www.espn.com/soccer/team/_/id/4375/iraq",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -7571,7 +7067,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -7593,7 +7089,7 @@
         "standings": {
           "id": "0",
           "name": "overall",
-          "displayName": "Overall Standings",
+          "displayName": "Standings",
           "links": [
             {
               "language": "en-US",
@@ -7601,8 +7097,8 @@
                 "standings",
                 "desktop"
               ],
-              "href": "https://www.espn.com/fifa.world/standings/_/group/10",
-              "text": "Standings",
+              "href": "https://www.espn.com/soccer/table/_/league/fifa.world",
+              "text": "Full Table",
               "shortText": "Standings",
               "isExternal": false,
               "isPremium": false
@@ -7643,21 +7139,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/202/Argentina",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:202",
+                    "href": "https://www.espn.com/soccer/team/_/id/202/argentina",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -7804,7 +7286,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -7846,21 +7328,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/474/Austria",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:474",
+                    "href": "https://www.espn.com/soccer/team/_/id/474/austria",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -8007,7 +7475,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -8049,21 +7517,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/624/Algeria",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:624",
+                    "href": "https://www.espn.com/soccer/team/_/id/624/algeria",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -8210,7 +7664,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -8252,21 +7706,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/2917/Jordan",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:2917",
+                    "href": "https://www.espn.com/soccer/team/_/id/2917/jordan",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -8413,7 +7853,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -8435,7 +7875,7 @@
         "standings": {
           "id": "0",
           "name": "overall",
-          "displayName": "Overall Standings",
+          "displayName": "Standings",
           "links": [
             {
               "language": "en-US",
@@ -8443,8 +7883,8 @@
                 "standings",
                 "desktop"
               ],
-              "href": "https://www.espn.com/fifa.world/standings/_/group/11",
-              "text": "Standings",
+              "href": "https://www.espn.com/soccer/table/_/league/fifa.world",
+              "text": "Full Table",
               "shortText": "Standings",
               "isExternal": false,
               "isPremium": false
@@ -8485,21 +7925,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/208/Colombia",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:208",
+                    "href": "https://www.espn.com/soccer/team/_/id/208/colombia",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -8646,7 +8072,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -8688,21 +8114,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/482/Portugal",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:482",
+                    "href": "https://www.espn.com/soccer/team/_/id/482/portugal",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -8849,7 +8261,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -8891,21 +8303,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/2850/Congo DR",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:2850",
+                    "href": "https://www.espn.com/soccer/team/_/id/2850/congo-dr",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -9052,7 +8450,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -9094,21 +8492,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/2570/Uzbekistan",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:2570",
+                    "href": "https://www.espn.com/soccer/team/_/id/2570/uzbekistan",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -9255,7 +8639,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -9277,7 +8661,7 @@
         "standings": {
           "id": "0",
           "name": "overall",
-          "displayName": "Overall Standings",
+          "displayName": "Standings",
           "links": [
             {
               "language": "en-US",
@@ -9285,8 +8669,8 @@
                 "standings",
                 "desktop"
               ],
-              "href": "https://www.espn.com/fifa.world/standings/_/group/12",
-              "text": "Standings",
+              "href": "https://www.espn.com/soccer/table/_/league/fifa.world",
+              "text": "Full Table",
               "shortText": "Standings",
               "isExternal": false,
               "isPremium": false
@@ -9327,21 +8711,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/448/England",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:448",
+                    "href": "https://www.espn.com/soccer/team/_/id/448/england",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -9488,7 +8858,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -9530,21 +8900,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/477/Croatia",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:477",
+                    "href": "https://www.espn.com/soccer/team/_/id/477/croatia",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -9691,7 +9047,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -9733,21 +9089,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/4469/Ghana",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:4469",
+                    "href": "https://www.espn.com/soccer/team/_/id/4469/ghana",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -9894,7 +9236,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
@@ -9936,21 +9278,7 @@
                       "desktop",
                       "team"
                     ],
-                    "href": "https://www.espn.com/soccer/team/_/id/2659/Panama",
-                    "text": "Clubhouse",
-                    "shortText": "Clubhouse",
-                    "isExternal": false,
-                    "isPremium": false
-                  },
-                  {
-                    "language": "en-US",
-                    "rel": [
-                      "clubhouse",
-                      "sportscenter",
-                      "app",
-                      "team"
-                    ],
-                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:600~t:2659",
+                    "href": "https://www.espn.com/soccer/team/_/id/2659/panama",
                     "text": "Clubhouse",
                     "shortText": "Clubhouse",
                     "isExternal": false,
@@ -10097,7 +9425,7 @@
                 },
                 {
                   "id": "0",
-                  "name": "Total",
+                  "name": "overall",
                   "abbreviation": "Total",
                   "displayName": "Overall",
                   "shortDisplayName": "OVER",
