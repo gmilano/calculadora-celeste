@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-14T18:18:11.853Z",
+  "fetchedAt": "2026-08-14T21:06:30.898Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -35251,9 +35251,9 @@
                 "athletesInvolved": [
                   {
                     "id": "250241",
-                    "displayName": "Frantzdy Pierrot",
+                    "displayName": "Frantz Pierrot",
                     "shortName": "F. Pierrot",
-                    "fullName": "Frantzdy Pierrot",
+                    "fullName": "Frantz Pierrot",
                     "jersey": "20",
                     "team": {
                       "id": "2654"
@@ -35265,7 +35265,7 @@
                           "desktop",
                           "athlete"
                         ],
-                        "href": "https://www.espn.com/soccer/player/_/id/250241/frantzdy-pierrot",
+                        "href": "https://www.espn.com/soccer/player/_/id/250241/frantz-pierrot",
                         "isHidden": false
                       }
                     ],
