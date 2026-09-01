@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-01T00:23:00.614Z",
+  "fetchedAt": "2026-09-01T08:11:45.887Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -30326,20 +30326,6 @@
             "isExternal": false,
             "isPremium": false,
             "isHidden": false
-          },
-          {
-            "language": "en-US",
-            "rel": [
-              "bracket",
-              "desktop",
-              "event"
-            ],
-            "href": "https://www.espn.com/soccer/bracket/_/season/2026/league/fifa.world",
-            "text": "Bracket",
-            "shortText": "Bracket",
-            "isExternal": false,
-            "isPremium": false,
-            "isHidden": false
           }
         ]
       },
@@ -54915,9 +54901,9 @@
                 "athletesInvolved": [
                   {
                     "id": "359370",
-                    "displayName": "Aleksandar Pavlovic",
-                    "shortName": "A. Pavlovic",
-                    "fullName": "Aleksandar Pavlovic",
+                    "displayName": "Aleksandar Pavlović",
+                    "shortName": "A. Pavlović",
+                    "fullName": "Aleksandar Pavlović",
                     "jersey": "5",
                     "team": {
                       "id": "481"
@@ -58103,20 +58089,6 @@
             "href": "https://www.espn.com/soccer/matchstats/_/gameId/760470",
             "text": "Statistics",
             "shortText": "Statistics",
-            "isExternal": false,
-            "isPremium": false,
-            "isHidden": false
-          },
-          {
-            "language": "en-US",
-            "rel": [
-              "bracket",
-              "desktop",
-              "event"
-            ],
-            "href": "https://www.espn.com/soccer/bracket/_/season/2026/league/fifa.world",
-            "text": "Bracket",
-            "shortText": "Bracket",
             "isExternal": false,
             "isPremium": false,
             "isHidden": false
