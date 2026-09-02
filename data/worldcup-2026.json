@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-02T07:30:51.835Z",
+  "fetchedAt": "2026-09-02T13:08:57.711Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -11459,20 +11459,6 @@
             "isExternal": false,
             "isPremium": false,
             "isHidden": false
-          },
-          {
-            "language": "en-US",
-            "rel": [
-              "bracket",
-              "desktop",
-              "event"
-            ],
-            "href": "https://www.espn.com/soccer/bracket/_/season/2026/league/fifa.world",
-            "text": "Bracket",
-            "shortText": "Bracket",
-            "isExternal": false,
-            "isPremium": false,
-            "isHidden": false
           }
         ]
       },
@@ -14868,20 +14854,6 @@
             "isExternal": false,
             "isPremium": false,
             "isHidden": false
-          },
-          {
-            "language": "en-US",
-            "rel": [
-              "bracket",
-              "desktop",
-              "event"
-            ],
-            "href": "https://www.espn.com/soccer/bracket/_/season/2026/league/fifa.world",
-            "text": "Bracket",
-            "shortText": "Bracket",
-            "isExternal": false,
-            "isPremium": false,
-            "isHidden": false
           }
         ]
       },
@@ -16372,20 +16344,6 @@
             "href": "https://www.espn.com/soccer/matchstats/_/gameId/760418",
             "text": "Statistics",
             "shortText": "Statistics",
-            "isExternal": false,
-            "isPremium": false,
-            "isHidden": false
-          },
-          {
-            "language": "en-US",
-            "rel": [
-              "bracket",
-              "desktop",
-              "event"
-            ],
-            "href": "https://www.espn.com/soccer/bracket/_/season/2026/league/fifa.world",
-            "text": "Bracket",
-            "shortText": "Bracket",
             "isExternal": false,
             "isPremium": false,
             "isHidden": false
@@ -25618,20 +25576,6 @@
             "href": "https://www.espn.com/soccer/matchstats/_/gameId/760433",
             "text": "Statistics",
             "shortText": "Statistics",
-            "isExternal": false,
-            "isPremium": false,
-            "isHidden": false
-          },
-          {
-            "language": "en-US",
-            "rel": [
-              "bracket",
-              "desktop",
-              "event"
-            ],
-            "href": "https://www.espn.com/soccer/bracket/_/season/2026/league/fifa.world",
-            "text": "Bracket",
-            "shortText": "Bracket",
             "isExternal": false,
             "isPremium": false,
             "isHidden": false
@@ -36213,20 +36157,6 @@
             "href": "https://www.espn.com/soccer/matchstats/_/gameId/760443",
             "text": "Statistics",
             "shortText": "Statistics",
-            "isExternal": false,
-            "isPremium": false,
-            "isHidden": false
-          },
-          {
-            "language": "en-US",
-            "rel": [
-              "bracket",
-              "desktop",
-              "event"
-            ],
-            "href": "https://www.espn.com/soccer/bracket/_/season/2026/league/fifa.world",
-            "text": "Bracket",
-            "shortText": "Bracket",
             "isExternal": false,
             "isPremium": false,
             "isHidden": false
@@ -64118,20 +64048,6 @@
             "isExternal": false,
             "isPremium": false,
             "isHidden": false
-          },
-          {
-            "language": "en-US",
-            "rel": [
-              "bracket",
-              "desktop",
-              "event"
-            ],
-            "href": "https://www.espn.com/soccer/bracket/_/season/2026/league/fifa.world",
-            "text": "Bracket",
-            "shortText": "Bracket",
-            "isExternal": false,
-            "isPremium": false,
-            "isHidden": false
           }
         ]
       },
@@ -65486,20 +65402,6 @@
             "href": "https://www.espn.com/soccer/matchstats/_/gameId/760481",
             "text": "Statistics",
             "shortText": "Statistics",
-            "isExternal": false,
-            "isPremium": false,
-            "isHidden": false
-          },
-          {
-            "language": "en-US",
-            "rel": [
-              "bracket",
-              "desktop",
-              "event"
-            ],
-            "href": "https://www.espn.com/soccer/bracket/_/season/2026/league/fifa.world",
-            "text": "Bracket",
-            "shortText": "Bracket",
             "isExternal": false,
             "isPremium": false,
             "isHidden": false
