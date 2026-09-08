@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T02:34:27.289Z",
+  "fetchedAt": "2026-09-08T07:41:46.341Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -19064,10 +19064,7 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ],
-                  "venue": {
-                    "id": "10318"
-                  }
+                  ]
                 },
                 "statistics": [
                   {
@@ -37585,10 +37582,7 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ],
-                  "venue": {
-                    "id": "10318"
-                  }
+                  ]
                 },
                 "statistics": [
                   {
@@ -52587,6 +52581,7 @@
                     "team": {
                       "id": "203"
                     },
+                    "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/379193.png",
                     "links": [
                       {
                         "rel": [
@@ -53924,10 +53919,7 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ],
-                  "venue": {
-                    "id": "10318"
-                  }
+                  ]
                 },
                 "statistics": [
                   {
@@ -63883,6 +63875,7 @@
                     "team": {
                       "id": "477"
                     },
+                    "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/103485.png",
                     "links": [
                       {
                         "rel": [
