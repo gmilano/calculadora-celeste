@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T13:13:12.016Z",
+  "fetchedAt": "2026-09-08T18:14:21.415Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -63875,6 +63875,7 @@
                     "team": {
                       "id": "477"
                     },
+                    "headshot": "https://a.espncdn.com/i/headshots/soccer/players/full/103485.png",
                     "links": [
                       {
                         "rel": [
