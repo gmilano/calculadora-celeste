@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-10T17:59:11.373Z",
+  "fetchedAt": "2026-09-10T20:40:10.916Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -68163,21 +68163,7 @@
       "id": "100",
       "name": "Draft Kings",
       "displayName": "Draft Kings",
-      "priority": 1,
-      "logos": [
-        {
-          "href": "https://a.espncdn.com/i/betting/Draftkings_Light.svg",
-          "rel": [
-            "light"
-          ]
-        },
-        {
-          "href": "https://a.espncdn.com/i/betting/Draftkings_Dark.svg",
-          "rel": [
-            "dark"
-          ]
-        }
-      ]
+      "priority": 1
     }
   }
 }
