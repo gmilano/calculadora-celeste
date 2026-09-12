@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-12T12:33:49.044Z",
+  "fetchedAt": "2026-09-12T17:37:21.192Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -11704,7 +11704,7 @@
                     }
                   ],
                   "venue": {
-                    "id": "1279"
+                    "id": "10842"
                   }
                 },
                 "statistics": [
@@ -16623,7 +16623,7 @@
                     }
                   ],
                   "venue": {
-                    "id": "5588"
+                    "id": "1800"
                   }
                 },
                 "statistics": [
@@ -19067,7 +19067,10 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ]
+                  ],
+                  "venue": {
+                    "id": "10936"
+                  }
                 },
                 "statistics": [
                   {
@@ -32683,7 +32686,7 @@
                     }
                   ],
                   "venue": {
-                    "id": "1279"
+                    "id": "10842"
                   }
                 },
                 "statistics": [
@@ -33371,7 +33374,7 @@
                     }
                   ],
                   "venue": {
-                    "id": "5588"
+                    "id": "1800"
                   }
                 },
                 "statistics": [
@@ -37585,7 +37588,10 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ]
+                  ],
+                  "venue": {
+                    "id": "10936"
+                  }
                 },
                 "statistics": [
                   {
@@ -53236,7 +53242,7 @@
                     }
                   ],
                   "venue": {
-                    "id": "1279"
+                    "id": "10842"
                   }
                 },
                 "statistics": [
@@ -53922,7 +53928,10 @@
                       "isPremium": false,
                       "isHidden": false
                     }
-                  ]
+                  ],
+                  "venue": {
+                    "id": "10936"
+                  }
                 },
                 "statistics": [
                   {
@@ -57053,7 +57062,7 @@
                     }
                   ],
                   "venue": {
-                    "id": "5588"
+                    "id": "1800"
                   }
                 },
                 "statistics": [
