@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T07:54:00.252Z",
+  "fetchedAt": "2026-09-13T13:34:40.864Z",
   "source": "github-action",
   "standings": {
     "uid": "s:600~l:606",
@@ -54913,9 +54913,9 @@
                 "athletesInvolved": [
                   {
                     "id": "359370",
-                    "displayName": "Aleksandar Pavlovic",
-                    "shortName": "A. Pavlovic",
-                    "fullName": "Aleksandar Pavlovic",
+                    "displayName": "Aleksandar Pavlović",
+                    "shortName": "A. Pavlović",
+                    "fullName": "Aleksandar Pavlović",
                     "jersey": "5",
                     "team": {
                       "id": "481"
